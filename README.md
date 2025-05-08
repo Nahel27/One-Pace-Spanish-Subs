@@ -1,6 +1,6 @@
 # One-Pace-Spanish-Subs
 
-## Spanish
+## Español
 
 Estos son subtítulos en español para los arcos de Long Ring Long Land, Water Seven y Post-Enies Lobby, de One Pace, un fan-edit de One Piece.
 
