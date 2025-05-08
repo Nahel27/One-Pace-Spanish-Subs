@@ -10,14 +10,14 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Audio File: ../../Video/Original/Long Ring Long Land 04.mkv
-Video File: ../../Video/Original/Long Ring Long Land 04.mkv
+Audio File: ../Episodes/Long Ring Long Land - 04 .mkv
+Video File: ../Episodes/Long Ring Long Land - 04 .mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 528
-Active Line: 546
-Video Position: 65117
+Scroll Position: 9
+Active Line: 25
+Video Position: 1874
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -42,27 +42,27 @@ Dialogue: 0,0:00:08.37,0:00:11.59,Lyrics,,0,0,0,,Con el sol siempre en nuestros 
 Dialogue: 0,0:00:11.76,0:00:15.03,Lyrics,,0,0,0,,A medida que el poder pasa a través de nuestras manos entrelazadas
 Dialogue: 0,0:00:15.18,0:00:18.68,Lyrics,,0,0,0,,{\i1}Aferrémonos a nuestros deseos{\i}
 Dialogue: 0,0:00:26.32,0:00:32.51,Lyrics,,0,0,0,,{\i1}Trabajando juntos, surfeemos las olas gigantes{\i}
-Dialogue: 0,0:00:26.30,0:00:31.85,OP11 Credits,,50,0,230,,Traducción \N FUNimation
-Dialogue: 0,0:00:32.55,0:00:37.02,OP11 Credits,,450,0,280,,Banda sonora de \NHalee
-Dialogue: 0,0:00:32.55,0:00:37.02,OP11 Credits,,0,450,350,,Cuadros de información/Título de la tarjeta\N BernieCrane
+Dialogue: 0,0:00:26.30,0:00:31.85,OP11 Credits,,50,0,230,,Traducción \N Crunchyroll + NEBA
+Dialogue: 0,0:00:32.55,0:00:37.02,OP11 Credits,,490,0,280,,Banda sonora de \NHalee
+Dialogue: 0,0:00:32.55,0:00:37.02,OP11 Credits,,0,580,350,,Cuadros de información\NTítulo de la tarjeta\N BernieCrane
 Dialogue: 0,0:00:37.14,0:00:41.03,OP11 Credits,,0,100,420,,Edición \NFeeso
-Dialogue: 0,0:00:42.51,0:00:47.12,OP11 Credits,,470,0,290,,Comprobación de calidad\N Alasta\NGalaxy 9000\NMr. Luffy
-Dialogue: 0,0:01:02.50,0:01:06.47,OP11 Credits,,0,30,410,,Sincronización\NGalaxy 9000
+Dialogue: 0,0:00:42.51,0:00:47.12,OP11 Credits,,490,0,300,,Comprobación de calidad\N Alasta\NGalaxy 9000\NMr. Luffy
+Dialogue: 0,0:01:02.50,0:01:06.47,OP11 Credits,,0,30,410,,Sincronización\NDatenshi
 Dialogue: 0,0:00:33.85,0:00:40.33,Lyrics,,0,0,1,,{\i1}Apresurémonos hacia la emoción--\Nahí está la señal de salida.{\i}
-Dialogue: 0,0:00:41.01,0:00:47.14,Lyrics,,0,0,0,,{\i1}Ahora es el momento de zarpar: levemos el ancla.{\i}
+Dialogue: 0,0:00:41.01,0:00:47.14,Lyrics,,0,0,0,,{\i1}Es hora de zarpar, así que levemos el ancla.{\i}
 Dialogue: 0,0:00:47.99,0:00:55.00,Lyrics,,0,0,1,,{\i1}Corta el viento color arcoíris \Ny dirígete a un mar de aventuras{\i}
 Dialogue: 0,0:00:55.13,0:00:58.57,Lyrics,,0,0,0,,{\i1}Será un viaje plagado de lesiones{\i}
 Dialogue: 0,0:00:58.65,0:01:02.30,Lyrics,,0,0,0,,{\i1}pero lo que más aprecias estará ahí{\i}
-Dialogue: 0,0:01:02.50,0:01:06.43,Lyrics,,0,0,0,,{\i1}Y si te metes en un lío{\i}
-Dialogue: 0,0:01:06.50,0:01:08.38,Lyrics,,0,0,0,,{\i1}Siempre estaré ahí para protegerte{\i}
+Dialogue: 0,0:01:02.50,0:01:06.43,Lyrics,,0,0,0,,{\i1}Y si estás en un aprieto{\i}
+Dialogue: 0,0:01:06.50,0:01:08.38,Lyrics,,0,0,0,,{\i1}siempre estaré ahí para protegerte{\i}
 Dialogue: 0,0:01:09.53,0:01:13.36,Lyrics,,0,0,0,,{\i1}¡Está bien! Ahora sigamos adelante.{\i}
 Dialogue: 0,0:01:13.71,0:01:16.85,Lyrics,,0,0,0,,{\i1}con el sol siempre en nuestros corazones{\i}
 Dialogue: 0,0:01:17.23,0:01:20.35,Lyrics,,0,0,1,,{\i1}Si llega una tormenta, abracémonos{\i}
-Dialogue: 0,0:01:20.46,0:01:24.23,Lyrics,,0,0,0,,{\fad(75,0)}{\i1}y observemos la luz más allá{\i}
-Dialogue: 0,0:01:24.72,0:01:27.97,Lyrics,,0,0,0,,{\i1}Si recogemos los pedazos de nuestros sueños{\i}
-Dialogue: 0,0:01:28.47,0:01:31.58,Lyrics,,0,0,0,,{\i1}Harán un mapa que conduzca al mañana{\i}
+Dialogue: 0,0:01:20.46,0:01:24.23,Lyrics,,0,0,0,,{\fad(75,0)}{\i1}y miremos a la luz que está más allá{\i}
+Dialogue: 0,0:01:24.72,0:01:27.97,Lyrics,,0,0,0,,{\i1}Si reunimos los pedazos de nuestros sueños{\i}
+Dialogue: 0,0:01:28.47,0:01:31.58,Lyrics,,0,0,0,,{\i1}harán un mapa que conduzca al mañana{\i}
 Dialogue: 0,0:01:31.73,0:01:34.75,Lyrics,,0,0,0,,{\i1}Así que aferrémonos a nuestros deseos{\i}
-Dialogue: 0,0:01:35.22,0:01:40.48,Lyrics,,0,0,0,,{\i1}bajo la misma bandera-- juntos somos uno{\i}
+Dialogue: 0,0:01:35.22,0:01:40.48,Lyrics,,0,0,0,,{\i1}bajo la misma bandera-- ya que somos un mismo...{\i}
 Dialogue: 0,0:01:50.47,0:01:56.00,Title,,0,0,420,,{\fad(250,250)}Combate
 Dialogue: 0,0:01:56.13,0:02:00.41,Main,,0,0,0,,¡Y entró! \N¡Gol! ¡Gol! ¡Gol!
 Dialogue: 0,0:02:00.85,0:02:05.71,Main,,0,0,0,,¡Muy bien! \N¡Zoro, Sanji: son increíbles!
@@ -96,7 +96,7 @@ Dialogue: 0,0:03:47.33,0:03:48.77,Main,,0,0,0,,Eso duele.
 Dialogue: 0,0:03:49.09,0:03:51.41,Main,,0,0,0,,¡Lo hicieron bien, \Njusto como les dije!
 Dialogue: 0,0:03:51.41,0:03:53.09,Main,,0,0,0,,Tú no hiciste nada.
 Dialogue: 0,0:03:54.85,0:03:59.65,Main,,0,0,0,,¡Ahora que los Sombrero de Paja \Nganaron el Groggy Ring de la segunda ronda,
-Dialogue: 0,0:03:59.75,0:04:03.07,Main,,0,0,0,,pueden elegir entre \Nquitarle un miembro a los piratas Foxy
+Dialogue: 0,0:03:59.75,0:04:03.07,Main,,0,0,0,,pueden elegir entre quitarle \Nun miembro a los piratas Foxy
 Dialogue: 0,0:04:03.07,0:04:05.85,Main,,0,0,0,,o arrebatarles su bandera!
 Dialogue: 0,0:04:06.07,0:04:10.39,Main,,0,0,0,,¡¿Qué querrá el capitán \Nde los Sombrero de Paja?!
 Dialogue: 0,0:04:15.77,0:04:17.77,Main,,0,0,0,,¿No es obvio?
@@ -106,7 +106,7 @@ Dialogue: 0,0:04:24.87,0:04:28.65,Thoughts,,0,0,0,,Oh, hombre... \NNo estoy list
 Dialogue: 0,0:04:28.73,0:04:32.45,Thoughts,,0,0,0,,¡Rayos, seguro que soy yo!\N¡Se cruzaron nuestras miradas!
 Dialogue: 0,0:04:33.65,0:04:36.35,Thoughts,,0,0,0,,Apuesto a que seré yo
 Dialogue: 0,0:04:36.71,0:04:37.96,Thoughts,,0,0,0,,¡Podría ser yo!
-Dialogue: 0,0:04:38.35,0:04:41.59,Thoughts,,0,0,0,,Si me elige, \Nme despediré de estos chicos con una sonrisa
+Dialogue: 0,0:04:38.35,0:04:41.59,Thoughts,,0,0,0,,Si me elige, me despediré de estos chicos \Ncon una sonrisa
 Dialogue: 0,0:04:42.55,0:04:45.11,Thoughts,,0,0,0,,Yo les agrado, lo sé.
 Dialogue: 0,0:04:45.87,0:04:47.31,Thoughts,,0,0,0,,Vamos Luffy... Date prisa
 Dialogue: 0,0:04:48.18,0:04:49.54,Main,,0,0,0,,¡Está bien! Elijo...
@@ -116,7 +116,7 @@ Dialogue: 0,0:04:53.70,0:04:56.96,Main,,0,0,0,,Su jefe seguramente participe\Nen
 Dialogue: 0,0:04:57.44,0:05:02.06,Main,,0,0,0,,Si recuperamos a Chopper ahora\Npero perdemos en la siguiente ronda,
 Dialogue: 0,0:05:02.16,0:05:04.18,Main,,0,0,0,,se lo podrían llevar de nuevo.
 Dialogue: 0,0:05:04.94,0:05:07.38,Main,,0,0,0,,En ese caso tomar a su jefe ahora
-Dialogue: 0,0:05:07.38,0:05:10.24,Main,,0,0,0,,es la mejor forma de recuperar\Na Chopper y mantenerlo.
+Dialogue: 0,0:05:07.38,0:05:10.24,Main,,0,0,0,,es la mejor forma de \Nrecuperar a Chopper y mantenerlo.
 Dialogue: 0,0:05:11.64,0:05:17.78,Main,,0,0,0,,¡I-Increíble! \N¡¿Va a llevarse al capitán de los piratas Foxy?!
 Dialogue: 0,0:05:18.50,0:05:20.18,Main,,0,0,0,,¡E-esa es la Estrategia Maní!
 Dialogue: 0,0:05:20.58,0:05:22.60,Main,,0,0,0,,¡Son despreciables!
@@ -127,7 +127,7 @@ Dialogue: 0,0:05:30.72,0:05:34.42,Main,,0,0,0,,pero llevarse al líder del opone
 Dialogue: 0,0:05:34.52,0:05:39.08,Main,,0,0,0,,¡Es un claro intento de evitar \Nun enfrentamiento justo y directo!
 Dialogue: 0,0:05:39.40,0:05:44.60,Main,,0,0,0,,¡No puedo creer lo que oigo! \N¡Esta es la idea diabólica de una mujer inhumana!
 Dialogue: 0,0:05:45.00,0:05:48.66,Main,,0,0,0,,¡Su nombre es Nami la navegante pagana!
-Dialogue: 0,0:05:48.90,0:05:52.31,Main,,0,0,0,,¡Cómo se atreven a insultar a Nami-san? \N¡Debería filetearlos!
+Dialogue: 0,0:05:48.90,0:05:52.31,Main,,0,0,0,,¡¿Cómo se atreven a insultar a Nami-san?! \N¡Debería filetearlos!
 Dialogue: 0,0:05:52.50,0:06:07.18,Secondary,,0,0,0,,¡Maníes! ¡Maníes! ¡Maníes!
 Dialogue: 0,0:05:53.54,0:05:55.34,Main,,0,0,0,,¡Los odio!
 Dialogue: 0,0:05:55.50,0:05:57.32,Main,,0,0,0,,Aunque no va contra las reglas,
@@ -155,7 +155,7 @@ Dialogue: 0,0:07:09.84,0:07:11.60,Main,,0,0,0,,¡Oh, no! ¡Choppy!
 Dialogue: 0,0:07:12.54,0:07:15.90,Main,,0,0,0,,¡Gracias! ¡Estoy tan feliz!
 Dialogue: 0,0:07:16.34,0:07:19.54,Main,,0,0,0,,¡No llores! \N¡Sabes que no perderíamos!
 Dialogue: 0,0:07:22.94,0:07:27.10,Main,,0,0,0,,¡Nuestro jefe se ha hundido en el suelo \Npor el peso de sus sentimientos!
-Dialogue: 0,0:07:27.28,0:07:30.20,Main,,0,0,0,,¡No puedo creer \Nque rechazaran a nuestro jefe así!
+Dialogue: 0,0:07:27.28,0:07:30.20,Main,,0,0,0,,¡No puedo creer que \Nrechazaran a nuestro jefe así!
 Dialogue: 0,0:07:30.36,0:07:34.22,Main,,0,0,0,,¡Oh, jefe! ¡Está bien! ¡Te necesitamos!
 Dialogue: 0,0:07:34.38,0:07:36.00,Main,,0,0,0,,¡Te necesitamos, jefe!
 Dialogue: 0,0:07:36.60,0:07:37.92,Main,,0,0,0,,Chicos...
@@ -164,7 +164,7 @@ Dialogue: 0,0:07:40.68,0:07:42.94,Main,,0,0,0,,¡Sí! ¡No puedo esperar a la si
 Dialogue: 0,0:07:42.98,0:07:44.72,Main,,0,0,0,,¡Te amamos, Jefe!
 Dialogue: 0,0:07:44.86,0:07:45.80,Main,,0,0,0,,¡Jefe!
 Dialogue: 0,0:07:46.92,0:07:47.98,Main,,0,0,0,,Chicos...
-Dialogue: 0,0:07:48.56,0:07:52.68,Main,,0,0,0,,¡Sí, ustedes son \Nmis verdaderos camaradas!
+Dialogue: 0,0:07:48.56,0:07:52.68,Main,,0,0,0,,¡Sí, ustedes son mis verdaderos camaradas!
 Dialogue: 0,0:07:53.00,0:07:53.88,Main,,0,0,0,,¡Gracias!
 Dialogue: 0,0:07:54.24,0:07:55.78,Main,,0,0,0,,Ya dejen de decir tonterías.
 Dialogue: 0,0:07:56.08,0:07:57.36,Main,,0,0,0,,¡Jefe!
@@ -175,14 +175,14 @@ Dialogue: 0,0:08:09.50,0:08:12.88,Main,,0,0,0,,Una pelea y un juego \Nson dos co
 Dialogue: 0,0:08:17.98,0:08:20.12,Main,,0,0,0,,¡Por fin llegó el momento de la ronda final!
 Dialogue: 0,0:08:20.24,0:08:22.34,Main,,0,0,0,,¡Primero: establecer el campo de batalla!
 Dialogue: 0,0:08:22.70,0:08:26.02,Main,,0,0,0,,¡Los dos competidores hacen girar el cañón!
-Dialogue: 0,0:08:26.14,0:08:27.12,Main,,0,0,0,,Y entonces
+Dialogue: 0,0:08:26.14,0:08:27.12,Main,,0,0,0,,Y entonces...
 Dialogue: 0,0:08:27.94,0:08:30.16,Main,,0,0,0,,donde se detenga el cañón será donde...
 Dialogue: 0,0:08:31.34,0:08:34.28,Main,,0,0,0,,¡Espera! \N¡Eso claramente no fue normal!
 Dialogue: 0,0:08:36.60,0:08:38.92,Main,,0,0,0,,¡Ya está decidido el campo de batalla!
 Dialogue: 0,0:08:39.08,0:08:43.42,Main,,0,0,0,,¡Casualmente, \Nserá en la cubierta de nuestro Sexy Foxy!
 Dialogue: 0,0:08:43.46,0:08:45.82,Main,,0,0,0,,¡Eso no fue casual, idiota!
 Dialogue: 0,0:08:45.94,0:08:48.95,Main,,0,0,0,,¡Ahora explicaré las reglas del combate!
-Dialogue: 0,0:08:49.48,0:08:54.52,Main,,0,0,0,,¡Todo lo que esté a 50 metros de donde cayó la \Nbala del cañón es parte del campo de batalla!
+Dialogue: 0,0:08:49.48,0:08:54.52,Main,,0,0,0,,¡Todo lo que esté a 50 metros de donde cayó\Nla bala del cañón es parte del campo de batalla!
 Dialogue: 0,0:08:54.70,0:08:58.34,Main,,0,0,0,,¡Es decir, es un círculo de 100 metros!
 Dialogue: 0,0:08:58.86,0:09:02.76,Main,,0,0,0,,Se pueden usar armas \Ny cualquier otra cosa que esté en el círculo.
 Dialogue: 0,0:09:03.00,0:09:06.36,Main,,0,0,0,,¡Sólo pueden estar en el círculo \Nlos dos competidores!
@@ -192,7 +192,7 @@ Dialogue: 0,0:09:14.20,0:09:16.86,Main,,0,0,0,,¡F! ¡O! ¡X! ¡Y!
 Dialogue: 0,0:09:16.98,0:09:18.34,Main,,0,0,0,,¡Foxy!
 Dialogue: 0,0:09:18.76,0:09:24.02,Main,,0,0,0,,Las Animadores Floridas \Nestán en el escenario animando a nuestro jefe
 Dialogue: 0,0:09:24.14,0:09:29.02,Main,,0,0,0,,¡Mientras se lleva a cabo \Nuna pelea inaugural a bordo del Foxy!
-Dialogue: 0,0:09:29.46,0:09:34.30,Main,,0,0,0,,Además, los puestos de venta están vendiendo productos de edición limitada de la Pelea Davy Back.
+Dialogue: 0,0:09:29.46,0:09:34.32,Main,,0,0,0,,Además, los puestos de venta están vendiendo productos de edición limitada de la Pelea Davy Back.
 Dialogue: 0,0:09:34.32,0:09:35.96,Main,,0,0,0,,¡No olviden echarles un vistazo!
 Dialogue: 0,0:09:36.14,0:09:38.46,Main,,0,0,0,,¡No necesitamos nada de eso!\N¡Empiecen ya!
 Dialogue: 0,0:09:37.96,0:09:43.38,Note,,0,0,0,,Nota: "Pines de Foxy"
@@ -206,14 +206,14 @@ Dialogue: 0,0:09:51.22,0:09:53.06,Main,,0,0,0,,Si no te gusta no lo compres.
 Dialogue: 0,0:09:53.42,0:09:54.60,Main,,0,0,0,,¡Bájalo un 80%!
 Dialogue: 0,0:09:54.68,0:09:55.56,Main,,0,0,0,,¡Cállate!
 Dialogue: 0,0:09:56.30,0:09:58.00,Main,,0,0,0,,¡Los límites están establecidos!
-Dialogue: 0,0:09:58.12,0:10:01.32,Main,,0,0,0,,¡Así termina la ceremonia de apertura! \N¡Gracias por su paciencia!
+Dialogue: 0,0:09:58.12,0:10:01.44,Main,,0,0,0,,¡Así termina la ceremonia de apertura! \N¡Gracias por su paciencia!
 Dialogue: 0,0:10:02.34,0:10:04.76,Main,,0,0,0,,Y ahora, el evento principal
 Dialogue: 0,0:10:06.56,0:10:09.30,Main,,0,0,0,,¡La campana del combate sonará en breve!
 Dialogue: 0,0:10:14.54,0:10:17.42,Main,,0,0,0,,¡Rápido, vayan a sus asientos!
 Dialogue: 0,0:10:17.54,0:10:18.36,Main,,0,0,0,,¿Qué ocurre?
 Dialogue: 0,0:10:18.94,0:10:20.50,Main,,0,0,0,,El cielo se está oscureciendo
 Dialogue: 0,0:10:22.24,0:10:27.00,Main,,0,0,0,,¡Esta vez seremos testigos\Nde un combate entre capitanes!
-Dialogue: 0,0:10:28.56,0:10:32.92,Main,,0,0,0,,Primero, En la esquina \Ndel mascarón de la izquierda...
+Dialogue: 0,0:10:28.56,0:10:32.92,Main,,0,0,0,,Primero, en la esquina \Ndel mascarón de la izquierda...
 Dialogue: 0,0:10:33.12,0:10:37.36,Main,,0,0,0,,¡Un hombre que acepta a todos los retadores \Ny ostenta un récord invicto legendario
 Dialogue: 0,0:10:37.48,0:10:40.00,Main,,0,0,0,,de 920 victorias y 0 derrotas!
 Dialogue: 0,0:10:40.14,0:10:44.92,Main,,0,0,0,,¡Nuestro jefe, Zorro Plateado Foxy!
@@ -226,7 +226,7 @@ Dialogue: 0,0:11:07.74,0:11:12.42,Main,,0,0,0,,Luffy... Con un afro, \Ntus golpe
 Dialogue: 0,0:11:12.66,0:11:14.32,Main,,0,0,0,,¡¿Dónde está Sombrero de Paja?!
 Dialogue: 0,0:11:14.42,0:11:16.04,Main,,0,0,0,,¡¿Se acobardó?!
 Dialogue: 0,0:11:18.56,0:11:21.26,Main,,0,0,0,,¡Y en la esquina derecha,\Nprocedente del East Blue!
-Dialogue: 0,0:11:21.48,0:11:27.74,Main,,0,0,0,,El líder de una minúscula banda pirata \Ncon una recompensa de 100 millones de belly
+Dialogue: 0,0:11:21.48,0:11:27.74,Main,,0,0,0,,El líder de una minúscula banda pirata \Ncon una recompensa de 100 millones de berris
 Dialogue: 0,0:11:27.94,0:11:33.54,Main,,0,0,0,,¡"Sombrero de Paja" Monkey D. Luffy!
 Dialogue: 0,0:11:37.14,0:11:41.62,Main,,0,0,0,,¡Guau! ¡El Luffy afro está muy \Nentusiasmado en la esquina derecha!
 Dialogue: 0,0:11:42.18,0:11:44.34,Main,,0,0,0,,¡Te ves genial, Luffy!
@@ -234,16 +234,16 @@ Dialogue: 0,0:11:45.10,0:11:46.20,Main,,0,0,0,,¿Quién es?
 Dialogue: 0,0:11:46.58,0:11:48.80,Main,,0,0,0,,¡Luffy se ve genial!
 Dialogue: 0,0:11:49.13,0:11:50.62,Main,,0,0,0,,Ciertamente.
 Dialogue: 0,0:11:51.36,0:11:54.32,Main,,0,0,0,,¡Ambos luchadores \Nhan entrado al campo de batalla!
-Dialogue: 0,0:11:54.34,0:12:01.36,Main,,0,0,0,,¡Podrá Sombrero de Paja sacar a nuestro jefe \Ndel círculo y proteger su tripulación y su orgullo?
+Dialogue: 0,0:11:54.34,0:12:01.36,Main,,0,0,0,,¡¿Podrá Sombrero de Paja sacar a nuestro jefe \Ndel círculo y proteger su tripulación y su orgullo?!
 Dialogue: 0,0:12:01.74,0:12:06.42,Main,,0,0,0,,¿O la legendaria racha invicta de nuestro jefe \Nle arrebatará todo lo que tiene?
 Dialogue: 0,0:12:06.76,0:12:11.44,Main,,0,0,0,,¡El último y fatídico combate \Nde la Pelea Davy Back va a comenzar!
 Dialogue: 0,0:12:16.56,0:12:17.86,Main,,0,0,0,,¿Qué es todo esto?
 Dialogue: 0,0:12:18.08,0:12:19.56,Main,,0,0,0,,Este es el vestuario
 Dialogue: 0,0:12:19.96,0:12:23.22,Main,,0,0,0,,Es una pelea con guantes, \Nasí que elige lo que quieras.
 Dialogue: 0,0:12:23.62,0:12:25.20,Main,,0,0,0,,¡Genial!
-Dialogue: 0,0:12:26.28,0:12:30.70,Main,,0,0,0,,Vaya. más que un vestuario, \Nesto parece una sala de disfraces.
+Dialogue: 0,0:12:26.28,0:12:30.70,Main,,0,0,0,,Vaya. Más que un vestuario, \Nesto parece una sala de disfraces.
 Dialogue: 0,0:12:31.02,0:12:34.70,Main,,0,0,0,,¡Mira todo esto! \N¡Y puedo usar lo que quiera, Usopp!
-Dialogue: 0,0:12:39.22,0:12:41.80,Main,,0,0,0,,Ey, ¿Qué tal esto?\N¿Me queda bien?
+Dialogue: 0,0:12:39.22,0:12:41.80,Main,,0,0,0,,Ey, ¿qué tal esto?\N¿Me queda bien?
 Dialogue: 0,0:12:43.52,0:12:46.16,Main,,0,0,0,,No... Esto es...
 Dialogue: 0,0:12:54.02,0:12:56.62,Main,,0,0,0,,¡Ey, Sombrero de Paja, me gusta tu estilo!
 Dialogue: 0,0:12:58.68,0:13:00.18,Main,,0,0,0,,¡Te van a dar una paliza!
@@ -359,7 +359,7 @@ Dialogue: 0,0:19:43.43,0:19:44.53,Main,,0,0,650,,¡Cálmate!
 Dialogue: 0,0:19:44.81,0:19:50.53,Main,,0,0,0,,¡Aprovechando eso, nuestro jefe logró hacer volar \Na Luffy Sombrero de Paja con una gran explosión!
 Dialogue: 0,0:19:52.29,0:19:56.07,Main,,0,0,0,,¿Será este su final? \N¡No hay rastro de él!
 Dialogue: 0,0:19:56.45,0:19:58.23,Main,,0,0,0,,¡Ufff, eso estuvo cerca!
-Dialogue: 0,0:19:58.71,0:20:01.07,Main,,0,0,0,,¡En efecto, fue un--!
+Dialogue: 0,0:19:58.71,0:20:01.07,Main,,0,0,0,,¡En efecto, fue un–!
 Dialogue: 0,0:20:02.69,0:20:04.33,Main,,0,0,0,,¡¿Qué?!
 Dialogue: 0,0:20:04.87,0:20:06.31,Main,,0,0,0,,¡Cállate, eres muy molesto!
 Dialogue: 0,0:20:07.69,0:20:11.21,Main,,0,0,0,,¡Sombrero de Paja Luffy está vivo!
@@ -417,7 +417,7 @@ Dialogue: 0,0:23:34.62,0:23:38.12,Main,,0,0,0,,¡El interior del barco es el pat
 Dialogue: 0,0:23:38.30,0:23:40.48,Main,,0,0,0,,¡No, Luffy! \N¡Es obvio que es una trampa!
 Dialogue: 0,0:23:40.48,0:23:42.66,Main,,0,0,0,,¡Ahí dentro debe tener un montón de trampas!
 Dialogue: 0,0:23:46.06,0:23:48.00,Main,,0,0,0,,¡Ese cretino! \N¡Le voy a partir la cabeza!
-Dialogue: 0,0:23:48.40,0:23:50.44,Main,,0,0,0,,¡Luffy Sombrero de Paja\Nse lanza sin dudarlo!
+Dialogue: 0,0:23:48.40,0:23:50.50,Main,,0,0,0,,¡Luffy Sombrero de Paja\Nse lanza sin dudarlo!
 Dialogue: 0,0:23:50.50,0:23:53.88,Main,,0,0,0,,¡El combate se ha trasladado al interior,\N pero no puedo entrar para narrarlo!
 Dialogue: 0,0:23:53.92,0:23:59.26,Main,,0,0,0,,¡Esta es la verdadera esencia de esta ronda:\Nun combate solitario entre dos luchadores!
 Dialogue: 0,0:23:59.77,0:24:04.85,Main,,0,0,0,,¡Levántate! ¡Levántate, Luffy! \N ¡Recuerda tu doloroso entrenamiento!
@@ -429,8 +429,8 @@ Dialogue: 0,0:24:17.33,0:24:18.41,Main,,0,0,0,,¡Ahí estás!
 Dialogue: 0,0:24:24.95,0:24:26.96,Main,,0,0,0,,¡Bien! ¡Viene por mí!
 Dialogue: 0,0:24:27.40,0:24:30.24,Main,,0,0,0,,¡Ahora cruzará la puerta a gran velocidad!
 Dialogue: 0,0:24:31.23,0:24:33.55,Main,,0,0,0,,¡Pero no tiene ni idea...
-Dialogue: 0,0:24:34.95,0:24:38.31,Main,,0,0,0,,...de que esta sala está llena de pinchos!
-Dialogue: 0,0:24:40.33,0:24:42.35,Main,,0,0,0,,Vamos, apúrate y...
+Dialogue: 0,0:24:34.95,0:24:38.31,Main,,0,0,0,,de que esta sala está llena de pinchos!
+Dialogue: 0,0:24:40.33,0:24:42.35,Main,,0,0,0,,Vamos, apúrate y–
 Dialogue: 0,0:24:54.55,0:24:55.70,Main,,0,0,0,,Oh, ahí está.
 Dialogue: 0,0:24:56.48,0:24:58.41,Main,,0,0,0,,Vaya, ¿qué hay en esa sala?
 Dialogue: 0,0:24:58.89,0:25:02.09,Main,,0,0,0,,¡¿Quién dispara un cañón \Ndentro del barco de otras personas?!
@@ -451,7 +451,7 @@ Dialogue: 0,0:25:44.25,0:25:47.67,Main,,0,0,0,,¿Dónde te duele? ¿La cabeza? \
 Dialogue: 0,0:25:47.84,0:25:50.25,Main,,0,0,0,,¿E-Eh? ¿No vino alguien por aquí?
 Dialogue: 0,0:25:50.79,0:25:53.05,Main,,0,0,0,,No, no vi a nadie. Pero olvida eso...
 Dialogue: 0,0:25:53.83,0:25:56.23,Main,,0,0,0,,¿Qué te molesta? \N¿Tu cara?
-Dialogue: 0,0:25:58.42,0:26:00.95,Main,,0,0,0,,Qué extraño...  \NJuraría haberlo visto...
+Dialogue: 0,0:25:58.42,0:26:00.95,Main,,0,0,0,,Qué extraño.  \NJuraría haberlo visto.
 Dialogue: 0,0:26:01.15,0:26:03.99,Main,,0,0,0,,¡Espera! \N¡Esa mujer se le parecía!
 Dialogue: 0,0:26:09.41,0:26:10.19,Main,,0,0,0,,¿Podría ser...?
 Dialogue: 0,0:26:10.90,0:26:13.42,Main,,0,0,0,,¡Oye, tú! \N¡Eres la hermana de ese tipo, ¿verdad?!
@@ -493,7 +493,7 @@ Dialogue: 0,0:28:59.90,0:29:02.90,Main,,0,0,0,,¡Digo, cállate! \N¡¿Quién te
 Dialogue: 0,0:29:03.06,0:29:06.50,Main,,0,0,0,,¡Adelante, Gorilla Puncher 13!
 Dialogue: 0,0:29:12.62,0:29:14.54,Main,,0,0,0,,¿Cómo se mueve solo?
 Dialogue: 0,0:29:15.26,0:29:16.64,Main,,0,0,0,,Es un secreto.
-Dialogue: 0,0:29:16.88,0:29:18.68,Main,,0,0,0,,Estás sudando mucho
+Dialogue: 0,0:29:16.88,0:29:18.68,Main,,0,0,0,,Estás sudando mucho.
 Dialogue: 0,0:29:18.96,0:29:19.86,Main,,0,0,0,,¡Cállate!
 Dialogue: 0,0:29:23.25,0:29:27.95,Main,,0,0,0,,Crees que puedes esquivar \Nestos débiles puñetazos, ¿verdad?
 Dialogue: 0,0:29:28.33,0:29:30.61,Main,,0,0,0,,{\fad(150,150)}¡Rayo Ralentizador!
@@ -520,7 +520,7 @@ Dialogue: 0,0:31:12.85,0:31:14.17,Main,,0,0,0,,¡Lo tengo!
 Dialogue: 0,0:31:17.01,0:31:21.55,Main,,0,0,0,,{\fad(150,150)}¡Rayo Ralentizador! ¡Rayo! ¡Rayo!
 Dialogue: 0,0:31:22.95,0:31:23.69,Main,,0,0,0,,¡Idiota!
 Dialogue: 0,0:31:27.91,0:31:30.35,Main,,0,0,0,,{\fad(150,150)}¡Golpes Dorados del Gorila!
-Dialogue: 0,0:31:48.24,0:31:51.34,Main,,0,0,0,,¡La tercera ronda de la Pelea Davy Back,\Nel combate, está en progreso!
+Dialogue: 0,0:31:48.24,0:31:51.49,Main,,0,0,0,,¡La tercera ronda de la Pelea Davy Back,\Nel combate, está en progreso!
 Dialogue: 0,0:31:51.49,0:31:54.60,Main,,0,0,0,,¡Nadie sabe lo que está pasando,\N pero no hay duda...
 Dialogue: 0,0:31:54.62,0:31:57.56,Main,,0,0,0,,de que se está librando \Nuna batalla épica ahí dentro!
 Dialogue: 0,0:31:57.64,0:32:00.94,Main,,0,0,0,,¡Aunque no pueden verlo,\Nlos espectadores animan al jefe!
@@ -560,7 +560,7 @@ Dialogue: 0,0:34:09.47,0:34:10.91,Main,,0,0,0,,{\fad(150,150)}¡Rush!
 Dialogue: 0,0:34:11.69,0:34:13.05,Main,,0,0,0,,{\fad(150,150)}¡Rush!
 Dialogue: 0,0:34:13.13,0:34:14.09,Main,,0,0,0,,{\fad(150,150)}¡Rush!
 Dialogue: 0,0:34:14.89,0:34:16.39,Main,,0,0,0,,30 segundos.
-Dialogue: 0,0:34:23.13,0:34:24.40,Main,,0,0,0,,Ahora sí cayó 
+Dialogue: 0,0:34:23.13,0:34:24.40,Main,,0,0,0,,Ahora sí cayó
 Dialogue: 0,0:34:24.70,0:34:26.06,Main,,0,0,0,,¡No, aún no!
 Dialogue: 0,0:34:27.11,0:34:28.20,Main,,0,0,0,,¡Luffy!
 Dialogue: 0,0:34:34.03,0:34:36.43,Main,,0,0,0,,¡Sombrero de Paja Luffy se levantó!

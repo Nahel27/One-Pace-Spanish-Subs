@@ -11,14 +11,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../Video/Original/Long Ring Long Land 06.mkv
-Video File: ../../Video/Original/Long Ring Long Land 06.mkv
+Audio File: ../Episodes/Long Ring Long Land - 06 .mkv
+Video File: ../Episodes/Long Ring Long Land - 06 .mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 422
-Active Line: 440
-Video Position: 54039
+Scroll Position: 64
+Active Line: 79
+Video Position: 6886
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -92,32 +92,32 @@ Dialogue: 0,0:02:30.82,0:02:33.34,Main,,0,0,0,,Vine a pasear porque hacía muy b
 Dialogue: 0,0:02:33.62,0:02:36.13,Main,,0,0,0,,¿De servicio? \N¿En qué organización estás?
 Dialogue: 0,0:02:40.92,0:02:45.18,Main,,0,0,0,,Vaya, vaya... \NTe convertiste en una mujer preciosa,
 Dialogue: 0,0:02:45.68,0:02:46.90,Main,,0,0,0,,Nico Robin.
-Dialogue: 0,0:02:51.28,0:02:55.35,Lyrics,,0,0,0,,{\fad(75,75)}¡Está bien! Ahora sigamos adelante.
-Dialogue: 0,0:02:55.61,0:02:58.82,Lyrics,,0,0,0,,Con el sol siempre en nuestros corazones
-Dialogue: 0,0:02:58.98,0:03:02.28,Lyrics,,0,0,0,,A medida que el poder pasa a través de nuestras manos entrelazadas
-Dialogue: 0,0:03:02.42,0:03:05.96,Lyrics,,0,0,0,,{\i1}Aferrémonos a nuestros deseos{\i}
-Dialogue: 0,0:03:13.53,0:03:19.07,OP11 Credits,,50,0,230,,Traducción \N FUNimation
-Dialogue: 0,0:03:13.53,0:03:19.77,Lyrics,,0,0,0,,{\i1}Trabajando juntos, surfeemos las olas gigantes{\i}
-Dialogue: 0,0:03:19.80,0:03:24.29,OP11 Credits,,450,0,280,,Banda sonora de \NHalee
-Dialogue: 0,0:03:19.80,0:03:24.29,OP11 Credits,,0,460,350,,Cuadros de información/Título de la tarjeta\N BernieCrane
-Dialogue: 0,0:03:21.11,0:03:27.55,Lyrics,,0,0,1,,{\i1}Apresurémonos hacia la emoción--\Nahí está la señal de salida.{\i}
-Dialogue: 0,0:03:24.38,0:03:28.28,OP11 Credits,,0,100,420,,Edición \NFeeso
-Dialogue: 0,0:03:28.28,0:03:34.37,Lyrics,,0,0,0,,{\i1}Ahora es el momento de zarpar: levemos el ancla.{\i}
-Dialogue: 0,0:03:29.78,0:03:34.35,OP11 Credits,,470,0,300,,Comprobación de calidad\N Alasta\NGalaxy 9000\NMr. Luffy
-Dialogue: 0,0:03:35.22,0:03:42.31,Lyrics,,0,0,1,,{\i1\fad(0,50)}Corta el viento color arcoíris \Ny dirígete a un mar de aventuras{\i}
-Dialogue: 0,0:03:42.36,0:03:45.82,Lyrics,,0,0,0,,{\i1}Será un viaje plagado de lesiones{\i}
-Dialogue: 0,0:03:45.88,0:03:49.54,Lyrics,,0,0,0,,{\i1}pero lo que más aprecias estará ahí{\i}
-Dialogue: 0,0:03:49.74,0:03:53.71,OP11 Credits,,0,30,410,,Sincronización\NDatenshi
-Dialogue: 0,0:03:49.74,0:03:53.67,Lyrics,,0,0,0,,{\i1}Y si te metes en un lío{\i}
-Dialogue: 0,0:03:53.74,0:03:55.63,Lyrics,,0,0,0,,{\i1}Siempre estaré ahí para protegerte{\i}
-Dialogue: 0,0:03:56.74,0:04:00.58,Lyrics,,0,0,0,,{\i1}¡Está bien! Ahora sigamos adelante.{\i}
-Dialogue: 0,0:04:00.95,0:04:04.08,Lyrics,,0,0,0,,{\i1}con el sol siempre en nuestros corazones{\i}
-Dialogue: 0,0:04:04.45,0:04:07.59,Lyrics,,0,0,1,,{\i1}Si llega una tormenta, abracémonos{\i}
-Dialogue: 0,0:04:07.69,0:04:11.46,Lyrics,,0,0,0,,{\fad(75,0)}{\i1}y observemos la luz más allá{\i}
-Dialogue: 0,0:04:11.96,0:04:15.19,Lyrics,,0,0,0,,{\i1}Si recogemos los pedazos de nuestros sueños{\i}
-Dialogue: 0,0:04:15.69,0:04:18.80,Lyrics,,0,0,0,,{\i1}Harán un mapa que conduzca al mañana{\i}
-Dialogue: 0,0:04:18.96,0:04:21.97,Lyrics,,0,0,0,,{\i1}Así que aferrémonos a nuestros deseos{\i}
-Dialogue: 0,0:04:22.43,0:04:27.71,Lyrics,,0,0,0,,{\i1}bajo la misma bandera-- juntos somos uno{\i}
+Dialogue: 0,0:02:51.28,0:02:55.37,Lyrics,,0,0,0,,{\fad(75,75)}¡Está bien! Ahora sigamos adelante.
+Dialogue: 0,0:02:55.62,0:02:58.84,Lyrics,,0,0,0,,Con el sol siempre en nuestros corazones
+Dialogue: 0,0:02:59.01,0:03:02.28,Lyrics,,0,0,0,,A medida que el poder pasa a través de nuestras manos entrelazadas
+Dialogue: 0,0:03:02.43,0:03:05.93,Lyrics,,0,0,0,,{\i1}Aferrémonos a nuestros deseos{\i}
+Dialogue: 0,0:03:13.57,0:03:19.76,Lyrics,,0,0,0,,{\i1}Trabajando juntos, surfeemos las olas gigantes{\i}
+Dialogue: 0,0:03:13.55,0:03:19.10,OP11 Credits,,50,0,230,,Traducción \N Crunchyroll + NEBA
+Dialogue: 0,0:03:19.80,0:03:24.27,OP11 Credits,,490,0,280,,Banda sonora de \NHalee
+Dialogue: 0,0:03:19.80,0:03:24.27,OP11 Credits,,0,580,350,,Cuadros de información\NTítulo de la tarjeta\N BernieCrane
+Dialogue: 0,0:03:24.39,0:03:28.28,OP11 Credits,,0,100,420,,Edición \NFeeso
+Dialogue: 0,0:03:29.76,0:03:34.37,OP11 Credits,,490,0,300,,Comprobación de calidad\NGalaxy 9000\NMr. Luffy
+Dialogue: 0,0:03:49.75,0:03:53.72,OP11 Credits,,0,30,410,,Sincronización\NDatenshi
+Dialogue: 0,0:03:21.10,0:03:27.58,Lyrics,,0,0,1,,{\i1}Apresurémonos hacia la emoción--\Nahí está la señal de salida.{\i}
+Dialogue: 0,0:03:28.26,0:03:34.39,Lyrics,,0,0,0,,{\i1}Es hora de zarpar, así que levemos el ancla.{\i}
+Dialogue: 0,0:03:35.24,0:03:42.25,Lyrics,,0,0,1,,{\i1}Corta el viento color arcoíris \Ny dirígete a un mar de aventuras{\i}
+Dialogue: 0,0:03:42.38,0:03:45.82,Lyrics,,0,0,0,,{\i1}Será un viaje plagado de lesiones{\i}
+Dialogue: 0,0:03:45.90,0:03:49.55,Lyrics,,0,0,0,,{\i1}pero lo que más aprecias estará ahí{\i}
+Dialogue: 0,0:03:49.75,0:03:53.68,Lyrics,,0,0,0,,{\i1}Y si estás en un aprieto{\i}
+Dialogue: 0,0:03:53.75,0:03:55.63,Lyrics,,0,0,0,,{\i1}siempre estaré ahí para protegerte{\i}
+Dialogue: 0,0:03:56.78,0:04:00.61,Lyrics,,0,0,0,,{\i1}¡Está bien! Ahora sigamos adelante.{\i}
+Dialogue: 0,0:04:00.96,0:04:04.10,Lyrics,,0,0,0,,{\i1}con el sol siempre en nuestros corazones{\i}
+Dialogue: 0,0:04:04.48,0:04:07.60,Lyrics,,0,0,1,,{\i1}Si llega una tormenta, abracémonos{\i}
+Dialogue: 0,0:04:07.71,0:04:11.48,Lyrics,,0,0,0,,{\fad(75,0)}{\i1}y miremos a la luz que está más allá{\i}
+Dialogue: 0,0:04:11.97,0:04:15.22,Lyrics,,0,0,0,,{\i1}Si reunimos los pedazos de nuestros sueños{\i}
+Dialogue: 0,0:04:15.72,0:04:18.83,Lyrics,,0,0,0,,{\i1}harán un mapa que conduzca al mañana{\i}
+Dialogue: 0,0:04:18.98,0:04:22.00,Lyrics,,0,0,0,,{\i1}Así que aferrémonos a nuestros deseos{\i}
+Dialogue: 0,0:04:22.47,0:04:27.73,Lyrics,,0,0,0,,{\i1}bajo la misma bandera-- ya que somos un mismo...{\i}
 Dialogue: 0,0:04:37.53,0:04:40.44,Title,,0,0,230,,{\fad(920,350)}Almirante de la Marina, Aokiji
 Dialogue: 0,0:04:52.20,0:04:55.16,Main,,0,0,0,,Pensar que logró conmocionar tanto a Robin...
 Dialogue: 0,0:04:55.42,0:04:56.14,Main,,0,0,0,,¿Quién es él?
@@ -183,7 +183,7 @@ Dialogue: 0,0:08:03.09,0:08:05.97,Main,,0,0,0,,Como les dije varias veces,\Nvine
 Dialogue: 0,0:08:06.15,0:08:09.57,Main,,0,0,0,,¿Un paseo? \N¡Pues no vengas a dar un paseo aquí! ¡Vete!
 Dialogue: 0,0:08:09.97,0:08:11.53,Main,,0,0,0,,Esto no tiene sentido.
 Dialogue: 0,0:08:11.74,0:08:13.84,Main,,0,0,0,,Parece que Luffy ha tomado la delantera.
-Dialogue: 0,0:08:19.25,0:08:22.97,Main,,0,0,0,,A-así que eres un marino...\NNos lo tendrías que haber dicho antes
+Dialogue: 0,0:08:19.25,0:08:22.97,Main,,0,0,0,,A-así que eres un marino...\NNos lo tendrías que haber dicho antes.
 Dialogue: 0,0:08:23.19,0:08:24.97,Main,,0,0,0,,¿Quiénes son estas personas?
 Dialogue: 0,0:08:26.19,0:08:27.47,Main,,0,0,0,,Ey, esperen un segundo.
 Dialogue: 0,0:08:27.60,0:08:29.54,Main,,0,0,0,,¿Entonces esta no es una isla desierta?
@@ -245,7 +245,7 @@ Dialogue: 0,0:13:18.59,0:13:20.23,Main,,0,0,0,,No hay de qué.
 Dialogue: 0,0:13:21.08,0:13:23.96,Main,,0,0,0,,Dicen que un encuentro se debe \Nal karma de una vida anterior.
 Dialogue: 0,0:13:24.39,0:13:27.39,Main,,0,0,0,,Cuiden de los niños \Npara que no se resfríen.
 Dialogue: 0,0:13:27.77,0:13:31.11,Main,,0,0,0,,En este estado, \Nla comida aguantará fresca un tiempo.
-Dialogue: 0,0:13:31.51,0:13:35.29,Secondary,,0,0,0,,¡Adiós! ¡Gracias!
+Dialogue: 0,0:13:31.51,0:13:33.53,Secondary,,0,0,0,,¡Adiós! ¡Gracias!
 Dialogue: 0,0:13:31.83,0:13:33.48,Main,,0,0,0,,Muchas gracias.
 Dialogue: 0,0:13:33.53,0:13:37.61,Main,,0,0,0,,¡Nunca olvidaremos su amabilidad,\Ntripulación de Sombrero de Paja!
 Dialogue: 0,0:13:37.97,0:13:41.47,Main,,0,0,0,,¡Adiós! ¡Cuídense!
@@ -260,11 +260,11 @@ Dialogue: 0,0:13:58.50,0:13:59.38,Main,,0,0,0,,¡Me voy a congelar!
 Dialogue: 0,0:14:00.41,0:14:00.83,Main,,0,0,0,,¿Oh?
 Dialogue: 0,0:14:03.18,0:14:04.64,Main,,0,0,0,,Mmm...
 Dialogue: 0,0:14:06.25,0:14:06.97,Main,,0,0,0,,¿Qué pasa?
-Dialogue: 0,0:14:07.75,0:14:12.03,Main,,0,0,0,,¿Cómo decirlo?... \NEres igual a tu abuelo, Monkey D. Luffy
+Dialogue: 0,0:14:07.75,0:14:12.03,Main,,0,0,0,,¿Cómo decirlo? \NEres igual a tu abuelo, Monkey D. Luffy
 Dialogue: 0,0:14:12.55,0:14:13.63,Main,,0,0,0,,¿E-Eh?
 Dialogue: 0,0:14:14.05,0:14:18.10,Main,,0,0,0,,Eres de espíritu libre, \N¿o debería decir que eres difícil de entender?
 Dialogue: 0,0:14:19.69,0:14:21.48,Main,,0,0,0,,E-El abuelo...
-Dialogue: 0,0:14:21.95,0:14:24.23,Main,,0,0,0,,¿Abuelo?... ¿De Luffy?
+Dialogue: 0,0:14:21.95,0:14:24.23,Main,,0,0,0,,¿Abuelo? ¿De Luffy?
 Dialogue: 0,0:14:28.02,0:14:30.40,Main,,0,0,0,,Oye, ¿qué te pasa, Luffy? \NEstás empapado en sudor.
 Dialogue: 0,0:14:30.43,0:14:33.24,Main,,0,0,0,,Bueno... N-no es nada...
 Dialogue: 0,0:14:33.59,0:14:38.45,Main,,0,0,0,,Tu abuelo realmente me ayudó hace un tiempo.
@@ -328,13 +328,13 @@ Dialogue: 0,0:18:29.61,0:18:31.79,Main,,0,0,0,,{\fad(150,150)}Pistol!
 Dialogue: 0,0:18:29.61,0:18:31.79,Note,,0,0,0,,{\fad(150,150)}¡Pistola Goma-Goma!
 Dialogue: 0,0:18:34.53,0:18:35.59,Main,,0,0,0,,¡Qué frío!
 Dialogue: 0,0:18:43.66,0:18:45.16,Main,,0,0,0,,¡Los congeló!
-Dialogue: 0,0:18:45.28,0:18:47.32,Main,,0,0,0,,Congeló a los tres de golpe...
+Dialogue: 0,0:18:45.28,0:18:47.32,Main,,0,0,0,,Congeló a los tres de golpe.
 Dialogue: 0,0:19:02.55,0:19:05.71,Main,,0,0,0,,¡Ra-rayos! \N¡Tengo que tratarlos inmediatamente!
 Dialogue: 0,0:19:05.91,0:19:08.85,Main,,0,0,0,,¡Si se congelan, \Nsus extremidades se gangrenarán!
 Dialogue: 0,0:19:09.54,0:19:11.92,Main,,0,0,0,,¿Qué haces, Usopp? \N¡Tenemos que ayudarlos ya!
 Dialogue: 0,0:19:12.03,0:19:17.29,Main,,0,0,0,,M-me encantaría, pero mi cuerpo no responde. \N¿Me congeló a mi también?
 Dialogue: 0,0:19:17.50,0:19:20.16,Main,,0,0,0,,¡Claro que no! \N¡Tienes demasiado miedo de moverte!
-Dialogue: 0,0:19:20.69,0:19:21.95,Main,,0,0,0,,¡Luffy!
+Dialogue: 0,0:19:20.69,0:19:21.67,Main,,0,0,0,,¡Luffy!
 Dialogue: 0,0:19:21.67,0:19:23.61,Main,,0,0,0,,¡Sanji! ¡Zoro!
 Dialogue: 0,0:19:23.73,0:19:25.63,Main,,0,0,0,,¡Robin, huye!
 Dialogue: 0,0:19:27.43,0:19:29.40,Main,,0,0,0,,Encontraste buenos compañeros.
@@ -380,8 +380,8 @@ Dialogue: 0,0:22:20.15,0:22:24.47,Main,,0,0,0,,Pero como no tengo un barco con e
 Dialogue: 0,0:22:28.69,0:22:31.09,Main,,0,0,0,,No puede respirar, ¿verdad?
 Dialogue: 0,0:22:31.20,0:22:33.48,Main,,0,0,0,,Creo que está en un estado de hibernación.
 Dialogue: 0,0:22:33.59,0:22:36.01,Main,,0,0,0,,E-Entonces ¿no morirá si no nos apresuramos?
-Dialogue: 0,0:22:36.15,0:22:38.75,Main,,0,0,0,,Pero si la calentamos muy rápido, \Nse romperá.
-Dialogue: 0,0:22:38.88,0:22:40.88,Main,,0,0,0,,Hay que restaurar su temperatura desde dentro.
+Dialogue: 0,0:22:36.15,0:22:38.75,Main,,0,0,0,,Pero si la calentamos muy rápido, se romperá.
+Dialogue: 0,0:22:38.88,0:22:41.32,Main,,0,0,0,,Hay que restaurar su temperatura desde dentro.
 Dialogue: 0,0:22:42.67,0:22:44.85,Main,,0,0,0,,¿E-esto realmente va a funcionar?
 Dialogue: 0,0:22:45.83,0:22:48.08,Main,,0,0,0,,No lo sé, pero esta es la única manera
 Dialogue: 0,0:22:48.37,0:22:51.77,Main,,0,0,0,,¡No digas que no lo sabes!\N¡La vida de Robin depende de ti!
@@ -411,7 +411,7 @@ Dialogue: 0,0:24:26.22,0:24:27.92,Main,,0,0,0,,Luffy dijo que quería un duelo.
 Dialogue: 0,0:24:28.33,0:24:32.37,Main,,0,0,0,,¡¿Un duelo?! \N¡¿Y dejaron solo a Luffy?!
 Dialogue: 0,0:24:34.12,0:24:35.66,Main,,0,0,0,,Órdenes del capitán.
 Dialogue: 0,0:24:36.06,0:24:39.13,Main,,0,0,0,,¡Oye! ¡Aunque fuera una orden del capitán,\N no puedes hacer eso!
-Dialogue: 0,0:24:39.40,0:24:41.80,Main,,0,0,0,,¿No creen que son demasiado desalmados? \N¡Luff--!
+Dialogue: 0,0:24:39.40,0:24:41.80,Main,,0,0,0,,¿No creen que son demasiado desalmados? \N¡Luff–!
 Dialogue: 0,0:24:41.80,0:24:42.64,Main,,0,0,0,,¡Cállate!
 Dialogue: 0,0:24:43.35,0:24:45.90,Main,,0,0,0,,¡Es un duelo! \N¡¿Es que no lo entiendes?!
 Dialogue: 0,0:24:46.20,0:24:48.16,Main,,0,0,0,,¡Basta! \N¡No es momento para eso!
@@ -425,7 +425,7 @@ Dialogue: 0,0:25:40.58,0:25:44.04,Note,,0,0,0,,{\fad(150,150)}¡Tormenta Goma-Go
 Dialogue: 0,0:25:54.11,0:25:56.43,Main,,0,0,0,,{\fad(150,150)}Ice Time
 Dialogue: 0,0:25:54.11,0:25:56.43,Note,,0,0,0,,{\fad(150,150)}Tiempo de Hielo
 Dialogue: 0,0:26:14.98,0:26:18.61,Flashbacks,,0,0,0,,¡Resolvamos esta pelea, solo tú y yo!
-Dialogue: 0,0:26:19.44,0:26:22.45,Main,,0,0,0,,Rayos, me habían engañado.
+Dialogue: 0,0:26:19.44,0:26:22.45,Main,,0,0,0,,Rayos, me habías engañado.
 Dialogue: 0,0:26:23.82,0:26:28.97,Main,,0,0,0,,Ya que acepté el duelo, \Nesta pelea termina cuando gane.
 Dialogue: 0,0:26:29.16,0:26:30.41,Main,,0,0,0,,Ya veo...
 Dialogue: 0,0:26:31.00,0:26:35.43,Main,,0,0,0,,Si peleo ahora contra los demás,\Nyo sería el insensato.
@@ -450,9 +450,9 @@ Dialogue: 0,0:28:04.30,0:28:04.96,Main,,0,0,0,,¡Ahí está!
 Dialogue: 0,0:28:05.11,0:28:05.89,Main,,0,0,0,,¡Luffy!
 Dialogue: 0,0:28:07.31,0:28:08.77,Main,,0,0,0,,¡No lo rompió en pedazos!
 Dialogue: 0,0:28:09.43,0:28:10.64,Main,,0,0,0,,Qué alivio.
-Dialogue: 0,0:28:10.91,0:28:12.05,Main,,0,0,0,,¡Vamos a cargarlo!
-Dialogue: 0,0:28:12.47,0:28:13.49,Main,,0,0,0,,¡Vayamos al barco!
-Dialogue: 0,0:28:13.69,0:28:14.71,Main,,0,0,0,,¡No hables a la vez!
+Dialogue: 0,0:28:10.91,0:28:12.05,Main,,0,0,0,,– ¡Vamos a cargarlo! \N – ¡Vamos a cargarlo!
+Dialogue: 0,0:28:12.47,0:28:13.49,Main,,0,0,0,,– ¡Vayamos al barco!\N– ¡Vayamos al barco!
+Dialogue: 0,0:28:13.69,0:28:14.71,Main,,0,0,0,,– ¡No hables a la vez!\N– ¡No hables a la vez!
 Dialogue: 0,0:28:24.82,0:28:29.43,Main,,0,0,0,,Según el Log Pose de esta isla,\Nsu próximo destino es...
 Dialogue: 0,0:28:29.81,0:28:30.49,Main,,0,0,0,,¿Oh?
 Dialogue: 0,0:28:31.12,0:28:34.65,Main,,0,0,0,,Water Seven... \NLa ciudad del agua, ¿eh?

@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../Video/Original/Long Ring Long Land 02.mkv
-Video File: ../../Video/Original/Long Ring Long Land 02.mkv
+Audio File: ../Episodes/Long Ring Long Land - 02 .mkv
+Video File: ../Episodes/Long Ring Long Land - 02 .mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 355
-Active Line: 361
-Video Position: 34870
+Video Zoom Percent: 0.375000
+Scroll Position: 18
+Active Line: 25
+Video Position: 1758
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,45 +43,45 @@ Dialogue: 0,0:00:08.37,0:00:11.59,Lyrics,,0,0,0,,Con el sol siempre en nuestros 
 Dialogue: 0,0:00:11.76,0:00:15.03,Lyrics,,0,0,0,,A medida que el poder pasa a través de nuestras manos entrelazadas
 Dialogue: 0,0:00:15.18,0:00:18.68,Lyrics,,0,0,0,,{\i1}Aferrémonos a nuestros deseos{\i}
 Dialogue: 0,0:00:26.32,0:00:32.51,Lyrics,,0,0,0,,{\i1}Trabajando juntos, surfeemos las olas gigantes{\i}
-Dialogue: 0,0:00:26.30,0:00:31.85,OP11 Credits,,50,0,230,,Traducción \N FUNimation
-Dialogue: 0,0:00:32.55,0:00:37.02,OP11 Credits,,450,0,280,,Banda sonora de \NHalee
-Dialogue: 0,0:00:32.55,0:00:37.02,OP11 Credits,,0,450,350,,Cuadros de información/Título de la tarjeta\N BernieCrane
+Dialogue: 0,0:00:26.30,0:00:31.85,OP11 Credits,,50,0,230,,Traducción \N Crunchyroll + NEBA
+Dialogue: 0,0:00:32.55,0:00:37.02,OP11 Credits,,490,0,280,,Banda sonora de \NHalee
+Dialogue: 0,0:00:32.55,0:00:37.02,OP11 Credits,,0,580,350,,Cuadros de información\NTítulo de la tarjeta\N BernieCrane
 Dialogue: 0,0:00:37.14,0:00:41.03,OP11 Credits,,0,100,420,,Edición \NFeeso
-Dialogue: 0,0:00:42.51,0:00:47.12,OP11 Credits,,470,0,290,,Comprobación de calidad\N Alasta\NGalaxy 9000\NMr. Luffy
+Dialogue: 0,0:00:42.51,0:00:47.12,OP11 Credits,,490,0,300,,Comprobación de calidad\N Alasta\NGalaxy 9000\NMr. Luffy
 Dialogue: 0,0:01:02.50,0:01:06.47,OP11 Credits,,0,30,410,,Sincronización\NGalaxy 9000
 Dialogue: 0,0:00:33.85,0:00:40.33,Lyrics,,0,0,1,,{\i1}Apresurémonos hacia la emoción--\Nahí está la señal de salida.{\i}
-Dialogue: 0,0:00:41.01,0:00:47.14,Lyrics,,0,0,0,,{\i1}Ahora es el momento de zarpar: levemos el ancla.{\i}
+Dialogue: 0,0:00:41.01,0:00:47.14,Lyrics,,0,0,0,,{\i1}Es hora de zarpar, así que levemos el ancla.{\i}
 Dialogue: 0,0:00:47.99,0:00:55.00,Lyrics,,0,0,1,,{\i1}Corta el viento color arcoíris \Ny dirígete a un mar de aventuras{\i}
 Dialogue: 0,0:00:55.13,0:00:58.57,Lyrics,,0,0,0,,{\i1}Será un viaje plagado de lesiones{\i}
 Dialogue: 0,0:00:58.65,0:01:02.30,Lyrics,,0,0,0,,{\i1}pero lo que más aprecias estará ahí{\i}
-Dialogue: 0,0:01:02.50,0:01:06.43,Lyrics,,0,0,0,,{\i1}Y si te metes en un lío{\i}
-Dialogue: 0,0:01:06.50,0:01:08.38,Lyrics,,0,0,0,,{\i1}Siempre estaré ahí para protegerte{\i}
+Dialogue: 0,0:01:02.50,0:01:06.43,Lyrics,,0,0,0,,{\i1}Y si estás en un aprieto{\i}
+Dialogue: 0,0:01:06.50,0:01:08.38,Lyrics,,0,0,0,,{\i1}siempre estaré ahí para protegerte{\i}
 Dialogue: 0,0:01:09.53,0:01:13.36,Lyrics,,0,0,0,,{\i1}¡Está bien! Ahora sigamos adelante.{\i}
 Dialogue: 0,0:01:13.71,0:01:16.85,Lyrics,,0,0,0,,{\i1}con el sol siempre en nuestros corazones{\i}
 Dialogue: 0,0:01:17.23,0:01:20.35,Lyrics,,0,0,1,,{\i1}Si llega una tormenta, abracémonos{\i}
-Dialogue: 0,0:01:20.46,0:01:24.23,Lyrics,,0,0,0,,{\fad(75,0)}{\i1}y observemos la luz más allá{\i}
-Dialogue: 0,0:01:24.72,0:01:27.97,Lyrics,,0,0,0,,{\i1}Si recogemos los pedazos de nuestros sueños{\i}
-Dialogue: 0,0:01:28.47,0:01:31.58,Lyrics,,0,0,0,,{\i1}Harán un mapa que conduzca al mañana{\i}
+Dialogue: 0,0:01:20.46,0:01:24.23,Lyrics,,0,0,0,,{\fad(75,0)}{\i1}y miremos a la luz que está más allá{\i}
+Dialogue: 0,0:01:24.72,0:01:27.97,Lyrics,,0,0,0,,{\i1}Si reunimos los pedazos de nuestros sueños{\i}
+Dialogue: 0,0:01:28.47,0:01:31.58,Lyrics,,0,0,0,,{\i1}harán un mapa que conduzca al mañana{\i}
 Dialogue: 0,0:01:31.73,0:01:34.75,Lyrics,,0,0,0,,{\i1}Así que aferrémonos a nuestros deseos{\i}
-Dialogue: 0,0:01:35.22,0:01:40.48,Lyrics,,0,0,0,,{\i1}bajo la misma bandera-- juntos somos uno{\i}
+Dialogue: 0,0:01:35.22,0:01:40.48,Lyrics,,0,0,0,,{\i1}bajo la misma bandera-- ya que somos un mismo...{\i}
 Dialogue: 0,0:01:50.08,0:01:51.97,Title,,0,0,420,,{\fad(100,0)}¡Carrera de donas!
-Dialogue: 0,0:01:50.09,0:01:54.59,Main,,0,0,0,,¡Muy bien! Mientras todos están ocupados con \Nsus botes, les explicaré cómo funciona la carrera.
+Dialogue: 0,0:01:50.09,0:01:54.98,Main,,0,0,0,,¡Muy bien, mientras todos están ocupados con \Nsus botes, les explicaré cómo funciona la carrera!
 Dialogue: 0,0:01:55.03,0:01:58.42,Main,,0,0,0,,¡El recorrido será de una vuelta \Nalrededor de Long Ring Long Land!
 Dialogue: 0,0:01:58.42,0:02:01.71,Main,,0,0,0,,Quizás parezca fácil, \N¡pero no lo es en absoluto!
-Dialogue: 0,0:02:02.49,0:02:06.05,Main,,0,0,0,,¡Un equipo queda inmediatamente \Ndescalificado si su barco se hunde!
-Dialogue: 0,0:02:06.05,0:02:08.84,Main,,0,0,0,,Además, se permiten todas las armas.
-Dialogue: 0,0:02:08.84,0:02:11.64,Main,,0,0,0,,¡Incluso pistolas, cañones, explosivos, \Nespadas o cualquier otra cosa!
-Dialogue: 0,0:02:11.64,0:02:15.39,Main,,0,0,0,,¡Quien se queje de una injusticia \Nserá avergonzado como pirata!
+Dialogue: 0,0:02:02.49,0:02:06.12,Main,,0,0,0,,¡Un equipo queda inmediatamente \Ndescalificado si su barco se hunde!
+Dialogue: 0,0:02:06.12,0:02:08.84,Main,,0,0,0,,Además, se permiten todas las armas.
+Dialogue: 0,0:02:08.84,0:02:11.86,Main,,0,0,0,,¡Incluso pistolas, cañones, explosivos, \Nespadas o cualquier otra cosa!
+Dialogue: 0,0:02:11.86,0:02:15.50,Main,,0,0,0,,¡Quien se queje de una injusticia \Nserá avergonzado como pirata!
 Dialogue: 0,0:02:16.89,0:02:18.59,Main,,0,0,0,,¡Porche-chan!
 Dialogue: 0,0:02:18.59,0:02:20.13,Main,,0,0,0,,¡Espero que te hundas narigón!
 Dialogue: 0,0:02:20.34,0:02:21.51,Main,,0,0,0,,¡¿Yo?!
 Dialogue: 0,0:02:21.51,0:02:23.91,Main,,0,0,0,,¡Tenemos que ganar!
 Dialogue: 0,0:02:23.91,0:02:26.15,Main,,0,0,0,,Hundir a los oponentes es válido.
 Dialogue: 0,0:02:26.15,0:02:27.45,Main,,0,0,0,,¡Me estoy emocionando!
-Dialogue: 0,0:02:27.45,0:02:28.74,Main,,0,0,0,,¿Siquiera tienen oportunidad?
-Dialogue: 0,0:02:28.86,0:02:33.49,Main,,0,0,0,,¡Escucha, Usopp! \N¡Si algo le pasa a las mujeres, te haré fileteado!
+Dialogue: 0,0:02:27.45,0:02:29.08,Main,,0,0,0,,¿Siquiera tienen oportunidad?
+Dialogue: 0,0:02:29.16,0:02:33.49,Main,,0,0,0,,¡Escucha, Usopp! \N¡Si algo le pasa a las mujeres, te haré fileteado!
 Dialogue: 0,0:02:34.09,0:02:36.41,Main,,0,0,0,,¡Ganaremos!
-Dialogue: 0,0:02:36.59,0:02:39.19,Main,,0,0,0,,Oh, Dios mío. Escucha esa locura.
+Dialogue: 0,0:02:36.59,0:02:39.19,Main,,0,0,0,,Oh, escucha esa locura.
 Dialogue: 0,0:02:39.19,0:02:43.26,Main,,0,0,0,,Déjalos hablar, Porche-chan. \N¡Los hundiremos en tres minutos!
 Dialogue: 0,0:02:43.26,0:02:45.32,Main,,0,0,0,,¿Verdad, Monda?
 Dialogue: 0,0:02:47.33,0:02:53.14,Main,,0,0,0,,¡Idiotas! ¡Nunca nos han vencido \Nen un juego con reglas ortodoxas!
@@ -104,15 +104,15 @@ Dialogue: 0,0:03:32.21,0:03:33.69,Main,,0,0,0,,¡Tengo un mal presentimiento sob
 Dialogue: 0,0:03:33.69,0:03:35.00,Main,,0,0,0,,¡Cuéntanos por qué!
 Dialogue: 0,0:03:35.00,0:03:38.59,Main,,0,0,0,,¡Empuja! ¡Empuja! ¡Empuja!
 Dialogue: 0,0:03:40.15,0:03:44.51,Main,,0,0,0,,¡Te enseñaremos para qué existe este barco!
-Dialogue: 0,0:03:48.35,0:03:50.35,Main,,0,0,0,,¡Oh no! ¡Nos tardamos demasiado!
+Dialogue: 0,0:03:48.35,0:03:50.35,Main,,0,0,0,,¡Oh, no! ¡Nos tardamos demasiado!
 Dialogue: 0,0:03:50.35,0:03:51.10,Main,,0,0,0,,¿Qué son éstos?
 Dialogue: 0,0:03:51.48,0:03:52.57,Main,,0,0,0,,¿Serán trampas?
 Dialogue: 0,0:03:53.23,0:03:54.56,Main,,0,0,0,,¡N-Nami! ¡No...!
 Dialogue: 0,0:04:03.50,0:04:08.38,Main,,0,0,0,,¡Y ahí están! ¡Son los infames barriles mina\Ndel Buque Nodriza Costero!
 Dialogue: 0,0:04:13.52,0:04:15.17,Main,,0,0,0,,¡Hasta luego!
-Dialogue: 0,0:04:15.17,0:04:18.01,Main,,0,0,0,,¡Pero no se hundan de inmediato! \N¡Dennos un poco de diversión!
+Dialogue: 0,0:04:15.17,0:04:18.24,Main,,0,0,0,,¡Pero no se hundan de inmediato! \N¡Dennos un poco de diversión!
 Dialogue: 0,0:04:22.23,0:04:25.72,Main,,0,0,0,,¡Capote! ¡Dales una muestra \Nde tu Karate de Hombre-Pez!
-Dialogue: 0,0:04:25.72,0:04:26.18,Main,,0,0,0,,¡Okay!
+Dialogue: 0,0:04:25.72,0:04:26.18,Main,,0,0,0,,¡Okey!
 Dialogue: 0,0:04:27.10,0:04:28.82,Main,,0,0,0,,{\fad(150,150)}¡Divisor de mares!
 Dialogue: 0,0:04:32.61,0:04:34.43,Main,,0,0,0,,¡Se partió el barco!
 Dialogue: 0,0:04:36.76,0:04:38.55,Main,,0,0,0,,¡Nuestro equilibrio...!
@@ -134,21 +134,21 @@ Dialogue: 0,0:05:04.03,0:05:06.70,Main,,0,0,0,,Vamos a enseñarles, Hamburg
 Dialogue: 0,0:05:06.70,0:05:09.84,Main,,0,0,0,,¿En serio? \N¿Por fin ha llegado el momento, jefe?
 Dialogue: 0,0:05:10.30,0:05:15.52,Main,,0,0,0,,¡Muy bien! ¡Actualmente a la cabeza \Nse encuentra el adorable Cutie Wagon!
 Dialogue: 0,0:05:15.52,0:05:17.28,Main,,0,0,0,,Y en segundo lugar el Barrel Tiger.
-Dialogue: 0,0:05:17.56,0:05:20.14,Main,,0,0,0,,¡Ah, sí! ¡Usopp! ¡Usa un dial!
+Dialogue: 0,0:05:17.56,0:05:20.14,Main,,0,0,0,,¡Ah, sí, Usopp! ¡Usa un dial!
 Dialogue: 0,0:05:20.15,0:05:21.23,Main,,0,0,0,,¡Oh, cierto!
-Dialogue: 0,0:05:21.23,0:05:23.26,Main,,0,0,0,,¡Muy bien! ¡Usaré este dial de viento para...!
+Dialogue: 0,0:05:21.23,0:05:23.26,Main,,0,0,0,,¡Muy bien, usaré este dial de viento para...!
 Dialogue: 0,0:05:25.36,0:05:27.25,Main,,0,0,0,,¡Remar sería más rápido que esto!
 Dialogue: 0,0:05:27.57,0:05:29.39,Main,,0,0,0,,¿No tienes un Jet Dial?
 Dialogue: 0,0:05:29.39,0:05:31.44,Main,,0,0,0,,¡Es imposible conseguirlos!
-Dialogue: 0,0:05:31.44,0:05:33.42,Main,,0,0,0,,¡Uno de nuestros compañeros está en juego!
-Dialogue: 0,0:05:33.42,0:05:36.30,Main,,0,0,0,,¡Sí! ¡Ése es el problema!
+Dialogue: 0,0:05:31.44,0:05:33.52,Main,,0,0,0,,¡Uno de nuestros compañeros está en juego!
+Dialogue: 0,0:05:33.52,0:05:36.30,Main,,0,0,0,,¡Sí, ése es el problema!
 Dialogue: 0,0:05:36.30,0:05:41.97,Main,,0,0,0,,Si terminamos perdiendo, \N¡seguramente me llevarán primero!
 Dialogue: 0,0:05:41.97,0:05:46.35,Main,,0,0,0,,¡No puedo permitir que eso pase! \N¡Soy demasiado linda!
 Dialogue: 0,0:05:46.35,0:05:48.19,Main,,0,0,0,,Sigue soñando. Ponte a remar.
 Dialogue: 0,0:05:52.11,0:05:54.80,Main,,0,0,0,,¡Robin, este no es momento de leer!
 Dialogue: 0,0:05:54.80,0:05:55.70,Main,,0,0,0,,También estoy remando.
-Dialogue: 0,0:05:55.70,0:05:59.32,Main,,0,0,0,,Tus manos sí, pero tú no lo pareces...
-Dialogue: 0,0:05:59.32,0:06:00.85,Main,,0,0,0,,Sí, Robin
+Dialogue: 0,0:05:55.70,0:05:59.32,Main,,0,0,0,,Tus manos sí, pero tú no lo pareces.
+Dialogue: 0,0:05:59.32,0:06:00.85,Main,,0,0,0,,Sí, Robin...
 Dialogue: 0,0:06:00.85,0:06:03.50,Main,,0,0,0,,Terminarás como yo si no trabajas duro.
 Dialogue: 0,0:06:03.88,0:06:05.46,Main,,0,0,0,,Estoy trabajando duro.
 Dialogue: 0,0:06:05.46,0:06:08.07,Main,,0,0,0,,Eres sorprendentemente buena en todo.
@@ -174,32 +174,32 @@ Dialogue: 0,0:07:03.93,0:07:05.68,Main,,0,0,0,,¡Oh! ¿Eso es...?
 Dialogue: 0,0:07:05.89,0:07:06.81,Main,,0,0,0,,¿Qué?
 Dialogue: 0,0:07:07.10,0:07:09.10,Main,,0,0,0,,¡Hay alguien en la isla!
 Dialogue: 0,0:07:11.31,0:07:13.11,Main,,0,0,0,,¡Es Hamburg "Full Dash"!
-Dialogue: 0,0:07:13.11,0:07:17.31,Main,,0,0,0,,Sobre él, haciendo su aparición por fin... \N¡está el Maestro de la Obstrucción!
+Dialogue: 0,0:07:13.11,0:07:17.31,Main,,0,0,0,,Sobre él, haciendo su aparición por fin... \N¡Está el Maestro de la Obstrucción!
 Dialogue: 0,0:07:17.31,0:07:21.11,Main,,0,0,0,,El gran sinvergüenza que odia la justicia;\N¡nuestro jefe!
 Dialogue: 0,0:07:21.66,0:07:24.28,Main,,0,0,0,,¡"Zorro Plateado" Foxy!
 Dialogue: 0,0:07:24.77,0:07:25.83,Main,,0,0,0,,¡Él!
 Dialogue: 0,0:07:26.19,0:07:28.50,Main,,0,0,0,,¡Se me ocurrió una idea malvada!
 Dialogue: 0,0:07:29.67,0:07:31.53,Main,,0,0,0,,¡La carrera se está calentando!
-Dialogue: 0,0:07:31.53,0:07:34.41,Main,,0,0,0,,¡El Largo Arrecife de Coral \Nbloquea el curso justo enfrente!
-Dialogue: 0,0:07:34.41,0:07:37.07,Main,,0,0,0,,¡A la cabeza está el Cutie Wagon de Porche-chan!
+Dialogue: 0,0:07:31.53,0:07:34.56,Main,,0,0,0,,¡El Largo Arrecife de Coral \Nbloquea el curso justo enfrente!
+Dialogue: 0,0:07:34.56,0:07:37.07,Main,,0,0,0,,¡A la cabeza está el Cutie Wagon de Porche-chan!
 Dialogue: 0,0:07:37.28,0:07:40.98,Main,,0,0,0,,¡Mira! ¡Está provocando corrientes \Nque actúan de forma extraña!
-Dialogue: 0,0:07:41.98,0:07:44.32,Main,,0,0,0,,No podemos lanzarnos imprudentemente...
+Dialogue: 0,0:07:41.98,0:07:44.32,Main,,0,0,0,,No podemos lanzarnos imprudentemente.
 Dialogue: 0,0:07:44.48,0:07:48.11,Main,,0,0,0,,No puedo creer que la carrera \Nesté durando tanto.
-Dialogue: 0,0:07:48.65,0:07:50.07,Main,,0,0,0,,¡Monda! ¡Contamos contigo!
+Dialogue: 0,0:07:48.65,0:07:50.07,Main,,0,0,0,,¡Monda, contamos contigo!
 Dialogue: 0,0:07:50.95,0:07:54.60,Main,,0,0,0,,Pero no olvidemos que hay alguien \Nen tierra esperando interferir:
 Dialogue: 0,0:07:54.60,0:07:58.12,Main,,0,0,0,,¡Nuestro jefe, "Zorro Plateado" Foxy!
 Dialogue: 0,0:07:58.29,0:08:01.58,Main,,0,0,0,,¡¿Qué estará tramando?!
-Dialogue: 0,0:08:03.69,0:08:06.73,Main,,0,0,0,,¡Un poco de sushi Inari y \Nudon Kitsune! ¡Sin cargo!
+Dialogue: 0,0:08:03.69,0:08:06.73,Main,,0,0,0,,¡Un poco de sushi Inari \Ny udon Kitsune! ¡Sin cargo!
 Dialogue: 0,0:08:06.73,0:08:08.70,Main,,0,0,0,,¿En serio? ¡Gracias!
 Dialogue: 0,0:08:12.17,0:08:15.42,Main,,0,0,0,,¡Nos encantaría que un cocinero como tú \Nse una a nosotros!
 Dialogue: 0,0:08:15.42,0:08:17.59,Main,,0,0,0,,¡Tus cejas rizadas son tan lindas!
 Dialogue: 0,0:08:19.18,0:08:22.31,Main,,0,0,0,,¡Tal vez debería ser Davy Backeado ahora mismo!
-Dialogue: 0,0:08:23.28,0:08:25.91,Main,,0,0,0,,¡Oye! ¡Más bebidas por aquí!
+Dialogue: 0,0:08:23.28,0:08:25.91,Main,,0,0,0,,¡Oye, más bebidas por aquí!
 Dialogue: 0,0:08:25.91,0:08:27.91,Main,,0,0,0,,¡Ten todas las que quieras!
 Dialogue: 0,0:08:27.91,0:08:29.25,Main,,0,0,0,,¡Gracias chicos!
 Dialogue: 0,0:08:29.89,0:08:33.42,Main,,0,0,0,,¡A por ellos, jefe! \N¡Yahoo! ¡Ya sólo es cuestión de tiempo!
 Dialogue: 0,0:08:33.42,0:08:34.93,Main,,0,0,0,,¡Oh, qué es esto!
-Dialogue: 0,0:08:36.05,0:08:38.62,Main,,0,0,0,,¡Vamos Nami! ¡Rema! \N¡Todavía no!
+Dialogue: 0,0:08:36.05,0:08:38.62,Main,,0,0,0,,– ¡Vamos, Nami, rema! \N– ¡Todavía no!
 Dialogue: 0,0:08:38.62,0:08:40.74,Main,,0,0,0,,¡Pero se están adelantando!
 Dialogue: 0,0:08:40.74,0:08:42.95,Main,,0,0,0,,¡Dije que todavía no!
 Dialogue: 0,0:08:42.97,0:08:48.32,Main,,0,0,0,,¡El Cutie Wagon aprovecha esta oportunidad para\Navanzar y sumergirse en el Largo Arrecife de Coral!
@@ -207,12 +207,12 @@ Dialogue: 0,0:08:48.32,0:08:50.01,Main,,0,0,0,,¡Vamos, Monda!
 Dialogue: 0,0:08:51.62,0:08:54.60,Main,,0,0,0,,¡Espera! ¡Rayos! ¿Qué está pasando?
 Dialogue: 0,0:08:54.60,0:08:55.60,Main,,0,0,0,,¡Monda!
 Dialogue: 0,0:08:57.73,0:08:59.15,Main,,0,0,0,,Oh... regresaron.
-Dialogue: 0,0:08:59.15,0:09:01.86,Main,,0,0,0,,¡Dios mío! ¡El Cutie Wagon \Nha sido enviado hacia atrás!
+Dialogue: 0,0:08:59.15,0:09:01.86,Main,,0,0,0,,¡Wow! ¡El Cutie Wagon \Nha sido enviado hacia atrás!
 Dialogue: 0,0:09:01.86,0:09:03.28,Main,,0,0,0,,¡¿Qué diablos pasó?!
 Dialogue: 0,0:09:03.65,0:09:04.95,Main,,0,0,0,,¡No! ¿Por qué?
 Dialogue: 0,0:09:05.36,0:09:08.54,Main,,0,0,0,,¿Ves? Sabía que algo pasaba \Ncon estas corrientes.
 Dialogue: 0,0:09:10.01,0:09:12.09,Main,,0,0,0,,¡Muy bien! \N¡Aumentemos la velocidad!
-Dialogue: 0,0:09:12.09,0:09:13.05,Main,,0,0,0,,¡O-Okay!
+Dialogue: 0,0:09:12.09,0:09:13.05,Main,,0,0,0,,¡O-Okey!
 Dialogue: 0,0:09:13.16,0:09:15.03,Main,,0,0,0,,¡Inténtalo de nuevo Monda!
 Dialogue: 0,0:09:15.03,0:09:16.00,Main,,0,0,0,,¡Por aquí!
 Dialogue: 0,0:09:19.97,0:09:21.44,Main,,0,0,0,,¡Vaya! ¿¡Qué...!?
@@ -226,10 +226,10 @@ Dialogue: 0,0:09:50.23,0:09:51.53,Main,,0,0,0,,¡¿Cómo diablos...?!
 Dialogue: 0,0:09:52.65,0:09:56.23,Main,,0,0,0,,¡Salieron! ¡Sin ningún problema! \N¿Cómo lo hicieron?
 Dialogue: 0,0:09:56.23,0:09:57.67,Main,,0,0,0,,¡Justo como lo pensé!
 Dialogue: 0,0:09:57.68,0:09:59.19,Main,,0,0,0,,Mientras tanto el Cutie Wagon...
-Dialogue: 0,0:09:59.28,0:10:02.57,Main,,0,0,0,,¡Oh, no! \N¡ha sido enviado de regreso otra vez!
+Dialogue: 0,0:09:59.28,0:10:02.57,Main,,0,0,0,,¡Oh, no! \N¡Ha sido enviado de regreso otra vez!
 Dialogue: 0,0:10:03.24,0:10:06.18,Main,,0,0,0,,¡¿Qué pasa?! \N¡El bote se mueve solo!
-Dialogue: 0,0:10:06.39,0:10:09.37,Main,,0,0,0,,Este es un laberinto de corrientes marinas. \N¿De corrientes marinas?
-Dialogue: 0,0:10:09.66,0:10:12.26,Main,,0,0,0,,Sí. El remolino que está más adelante está...
+Dialogue: 0,0:10:06.39,0:10:09.37,Main,,0,0,0,,– Este es un laberinto de corrientes marinas. \N– ¿De corrientes marinas?
+Dialogue: 0,0:10:09.66,0:10:12.26,Main,,0,0,0,,Sí, el remolino que está más adelante está...
 Dialogue: 0,0:10:12.26,0:10:14.62,Main,,0,0,0,,provocando corrientes extrañas en este arrecife,
 Dialogue: 0,0:10:14.62,0:10:16.67,Main,,0,0,0,,que está lleno de remolinos más pequeños.
 Dialogue: 0,0:10:16.67,0:10:19.25,Main,,0,0,0,,¡Así que no necesitamos ver hacia adelante!
@@ -240,11 +240,11 @@ Dialogue: 0,0:10:30.36,0:10:32.68,Main,,0,0,0,,¡Maldición!
 Dialogue: 0,0:10:35.12,0:10:36.84,Main,,0,0,0,,Pero su alegría durará poco.
 Dialogue: 0,0:10:37.04,0:10:40.58,Main,,0,0,0,,Más allá del bosque de coral \Nse encuentra el Anillo Largo.
 Dialogue: 0,0:10:40.74,0:10:42.99,Main,,0,0,0,,¡Usopp! ¡Deja de asustarte y dispara!
-Dialogue: 0,0:10:42.99,0:10:45.29,Main,,0,0,0,,¡¿Disparo qué?! \N¡Un impact!
-Dialogue: 0,0:10:45.74,0:10:50.03,Main,,0,0,0,,¡Te dije que no lo tenemos! ¡No! \N¿Ah, sí? ¿Entonces qué es esto?
+Dialogue: 0,0:10:42.99,0:10:45.29,Main,,0,0,0,,– ¡¿Disparo qué?! \N– ¡Un impact!
+Dialogue: 0,0:10:45.74,0:10:50.03,Main,,0,0,0,,– ¡Te dije que no lo tenemos! ¡No! \N– ¿Ah, sí? ¿Entonces qué es esto?
 Dialogue: 0,0:10:51.20,0:10:52.75,Main,,0,0,0,,¿¡Cuándo conseguiste...?!
 Dialogue: 0,0:10:53.36,0:10:56.81,Main,,0,0,0,,¡Date prisa! \N¡Antes de que nos trague el remolino!
-Dialogue: 0,0:10:56.89,0:11:00.23,Main,,0,0,0,,¡Aunque salga mal, no me importa! \N¡Porque es mi hombro!
+Dialogue: 0,0:10:56.89,0:11:00.23,Main,,0,0,0,,– ¡Aunque salga mal, no me importa! \N– ¡Porque es mi hombro!
 Dialogue: 0,0:11:00.23,0:11:03.88,Main,,0,0,0,,¡Con razón estabas tan tranquila!
 Dialogue: 0,0:11:03.88,0:11:06.38,Main,,0,0,0,,Tenías esto en mente desde el principio
 Dialogue: 0,0:11:06.67,0:11:07.62,Main,,0,0,0,,¡Será!
@@ -262,28 +262,28 @@ Dialogue: 0,0:11:36.92,0:11:40.77,Main,,0,0,0,,¡Se deslizan a través del coral
 Dialogue: 0,0:11:43.21,0:11:44.72,Main,,0,0,0,,¡La carrera va por la mitad!
 Dialogue: 0,0:11:44.72,0:11:47.80,Main,,0,0,0,,¡Mientras tanto el Barrel Tiger \Nrema desesperadamente!
 Dialogue: 0,0:11:47.80,0:11:49.18,Main,,0,0,0,,¡Levántate Usopp!
-Dialogue: 0,0:11:50.68,0:11:52.68,Main,,0,0,0,,¿Dónde estoy? \N¡Empieza a remar!
+Dialogue: 0,0:11:50.68,0:11:52.68,Main,,0,0,0,,–¿Dónde estoy? \N– ¡Empieza a remar!
 Dialogue: 0,0:11:53.08,0:11:55.16,Main,,0,0,0,,Tu brazo está torcido de manera extraña.
 Dialogue: 0,0:11:57.69,0:11:58.69,Main,,0,0,0,,¿Qué es eso?
 Dialogue: 0,0:11:58.86,0:12:01.09,Main,,0,0,0,,Es un marcador de ruta. \NIndica ir a la derecha.
 Dialogue: 0,0:12:01.19,0:12:03.48,Main,,0,0,0,,¡Muy bien! ¡Vamos!
 Dialogue: 0,0:12:03.65,0:12:04.99,Main,,0,0,0,,¡Como si fuéramos a caer en eso!
-Dialogue: 0,0:12:06.32,0:12:11.77,Main,,0,0,0,,¡Dios mío! ¡La estrategia número 18 del jefe \N"Operación Mentirles", ha fracasado!
+Dialogue: 0,0:12:06.32,0:12:11.77,Main,,0,0,0,,¡La destruyó! ¡La estrategia número 18 del jefe\N"Operación Mentirles", ha fracasado!
 Dialogue: 0,0:12:12.70,0:12:17.21,Main,,0,0,0,,¡Realmente formidable! \N¿Esta chica no cree en nada?
 Dialogue: 0,0:12:17.21,0:12:18.85,Main,,0,0,0,,¡Cállate!
 Dialogue: 0,0:12:19.12,0:12:20.42,Main,,0,0,0,,¡También es malhablada!
 Dialogue: 0,0:12:21.04,0:12:25.50,Main,,0,0,0,,¡La carrera continúa! \N¡El Barrel Tiger sigue en cabeza!
-Dialogue: 0,0:12:27.88,0:12:31.33,Main,,0,0,0,,¿¡Qué son estas columnas de agua!?
+Dialogue: 0,0:12:27.88,0:12:31.33,Main,,0,0,0,,¡¿Qué son estas columnas de agua?!
 Dialogue: 0,0:12:31.33,0:12:35.36,Main,,0,0,0,,¡También superan las largas olas \Nque llegan hasta el cielo!
 Dialogue: 0,0:12:35.36,0:12:36.89,Main,,0,0,0,,¿Fenómeno natural?
 Dialogue: 0,0:12:37.10,0:12:38.41,Main,,0,0,0,,Abuelita...
 Dialogue: 0,0:12:38.84,0:12:40.91,Main,,0,0,0,,Jefe... no, abuelita...
 Dialogue: 0,0:12:40.98,0:12:44.20,Main,,0,0,0,,Sí... Creo que hasta aquí llego.
 Dialogue: 0,0:12:44.20,0:12:47.53,Main,,0,0,0,,¡Nuestro jefe desata un \Ndesagradable tercer truco!
-Dialogue: 0,0:12:47.53,0:12:51.91,Main,,0,0,0,,¡Oh! ¡Ustedes en el barco! \N¡Por favor, sálvenme!
+Dialogue: 0,0:12:47.53,0:12:51.91,Main,,0,0,0,,¡Oh, ustedes en el barco! \N¡Por favor, sálvenme!
 Dialogue: 0,0:12:51.91,0:12:56.25,Main,,0,0,0,,¡Increíble! ¡Ella ignora por completo \Na una abuela enferma e indefensa!
 Dialogue: 0,0:12:56.25,0:12:59.18,Main,,0,0,0,,¿Es una desalmada \No sólo se preocupa por ella misma?
-Dialogue: 0,0:12:59.18,0:13:01.92,Main,,0,0,0,,¡Sea como sea, \Nla Navegante Nami tiene un corazón de hielo!
+Dialogue: 0,0:12:59.18,0:13:01.92,Main,,0,0,0,,¡Sea como sea, la Navegante Nami \Ntiene un corazón de hielo!
 Dialogue: 0,0:13:01.92,0:13:06.30,Main,,0,0,0,,¡¿Te puedes callar ya?! \N¡Jamás caería en esa estupidez!
 Dialogue: 0,0:13:06.30,0:13:07.97,Main,,0,0,0,,¡También es malhablada!
 Dialogue: 0,0:13:11.15,0:13:12.93,Main,,0,0,0,,¡Mira! ¡Es la meta!
@@ -293,24 +293,23 @@ Dialogue: 0,0:13:20.63,0:13:22.41,Main,,0,0,0,,¡El Cutie Wagon los ha alcanzado
 Dialogue: 0,0:13:22.41,0:13:25.35,Main,,0,0,0,,¡Carrera de donas de la primera ronda...!
 Dialogue: 0,0:13:25.70,0:13:28.77,Main,,0,0,0,,¿Quién será el ganador?
 Dialogue: 0,0:13:30.88,0:13:32.15,Main,,0,0,0,,Les dije...
-Dialogue: 0,0:13:32.63,0:13:34.67,Main,,0,0,0,,¡Qué sus trucos no van a funcionar!
-Dialogue: 0,0:13:35.73,0:13:39.48,Main,,0,0,0,,¡Incluso ve a través de la \N"Operación Meta Falsa"!
+Dialogue: 0,0:13:32.63,0:13:34.67,Main,,0,0,0,,¡Que sus trucos no van a funcionar!
+Dialogue: 0,0:13:35.73,0:13:39.48,Main,,0,0,0,,¡Incluso ve a través de \Nla "Operación Meta Falsa"!
 Dialogue: 0,0:13:39.48,0:13:41.64,Main,,0,0,0,,¡Formidable! \N¡Realmente formidable!
 Dialogue: 0,0:13:41.80,0:13:46.86,Main,,0,0,0,,Ahora tengo una pregunta para ella: \N¿Qué significa para ti “creer”?
 Dialogue: 0,0:13:46.86,0:13:47.96,Main,,0,0,0,,¡No me importa!
 Dialogue: 0,0:13:47.96,0:13:51.86,Main,,0,0,0,,¡Oh, es demasiado tarde! \N¡Su corazón ya está cerrado! ¡No cree en nada!
 Dialogue: 0,0:13:52.21,0:13:54.07,Main,,0,0,0,,Pero la verdadera meta está cerca.
-Dialogue: 0,0:13:54.07,0:13:57.82,Main,,0,0,0,,¡No más impacts! \N¡Sí, lo sé!
+Dialogue: 0,0:13:54.07,0:13:57.82,Main,,0,0,0,,– ¡No más impacts! \N– ¡Sí, lo sé!
 Dialogue: 0,0:13:58.06,0:14:02.94,Main,,0,0,0,,¡Mientras tanto, el equipo de Porche-chan \Nse detuvo trágicamente en la meta falsa!
-Dialogue: 0,0:14:02.94,0:14:06.71,Main,,0,0,0,,¿Qué pasó con la carrera? \N¡Ey! ¿Dónde están todos?
+Dialogue: 0,0:14:02.94,0:14:06.71,Main,,0,0,0,,– ¿Qué pasó con la carrera? \N– ¡Ey! ¿Dónde están todos?
 Dialogue: 0,0:14:07.36,0:14:09.63,Main,,0,0,0,,¡La pureza de su corazón es deslumbrante!
-Dialogue: 0,0:14:09.63,0:14:11.97,Main,,0,0,0,,¡Pero los han engañado! \N¡Presta atención, Porche-chan!
+Dialogue: 0,0:14:09.63,0:14:12.12,Main,,0,0,0,,¡Pero los han engañado! \N¡Presta atención, Porche-chan!
 Dialogue: 0,0:14:12.12,0:14:13.96,Main,,0,0,0,,¡Tantos idiotas!
 Dialogue: 0,0:14:13.96,0:14:17.35,Main,,0,0,0,,¡Me daría mucha vergüenza vivir \Nsi perdemos contra estos tipos!
 Dialogue: 0,0:14:17.35,0:14:19.73,Main,,0,0,0,,¡Aún peor, se llevarían a uno de nosotros!
 Dialogue: 0,0:14:20.29,0:14:22.57,Main,,0,0,0,,¡Oh, no! ¡Esta meta es falsa!
-Dialogue: 0,0:14:22.85,0:14:25.48,Main,,0,0,0,,¡¿Qué?! ¿Quién sería tan malvado?
-Dialogue: 0,0:14:25.48,0:14:26.15,Main,,0,0,0,,¡Eep!
+Dialogue: 0,0:14:22.85,0:14:25.48,Main,,0,0,0,,¡¿Qué?! \N¿Quién sería tan malvado?
 Dialogue: 0,0:14:26.73,0:14:31.07,Main,,0,0,0,,¡El Barrel Tiger finalmente se acerca \Nal Cabo de Bambú Largo!
 Dialogue: 0,0:14:31.39,0:14:34.31,Main,,0,0,0,,¡La meta está justo más allá! \N¡Esta es la recta final!
 Dialogue: 0,0:14:35.08,0:14:37.41,Main,,0,0,0,,¡Tiene razón! \N¡Ahí está la meta!
@@ -318,9 +317,9 @@ Dialogue: 0,0:14:37.58,0:14:39.00,Main,,0,0,0,,¡Esperen!
 Dialogue: 0,0:14:39.43,0:14:41.72,Main,,0,0,0,,¡Pero nos están alcanzando!
 Dialogue: 0,0:14:41.72,0:14:43.38,Main,,0,0,0,,¡No podemos competir en velocidad!
 Dialogue: 0,0:14:43.72,0:14:46.23,Main,,0,0,0,,¡Ya sé, Usopp! \N¿Puedes derribar ese bambú?
-Dialogue: 0,0:14:46.23,0:14:46.97,Main,,0,0,0,,¿¡El bambú?!
+Dialogue: 0,0:14:46.23,0:14:46.97,Main,,0,0,0,,¡¿El bambú?!
 Dialogue: 0,0:14:47.47,0:14:48.59,Main,,0,0,0,,¡Está bien!
-Dialogue: 0,0:14:50.80,0:14:52.55,Main,,0,0,0,,¿Así? \N¡Derriba más!
+Dialogue: 0,0:14:50.80,0:14:52.55,Main,,0,0,0,,– ¿Así? \N– ¡Derriba más!
 Dialogue: 0,0:14:52.86,0:14:55.47,Main,,0,0,0,,¡A toda velocidad! ¡Capote! ¡Monda!
 Dialogue: 0,0:14:55.47,0:14:57.89,Main,,0,0,0,,¡Tenemos que hundirlos!
 Dialogue: 0,0:15:02.80,0:15:04.55,Main,,0,0,0,,¡Guau! ¡Bingo!
@@ -331,31 +330,31 @@ Dialogue: 0,0:15:14.27,0:15:16.44,Main,,0,0,0,,¿Qué es eso? \N¿Magia de flore
 Dialogue: 0,0:15:16.87,0:15:19.48,Main,,0,0,0,,{\fad(150,150)}¡Shurikens de flores!
 Dialogue: 0,0:15:20.78,0:15:23.08,Main,,0,0,0,,Ah, son shurikens... ¡Uy!
 Dialogue: 0,0:15:25.28,0:15:26.99,Main,,0,0,0,,¡Oh, no! \N¡Tenemos una fuga!
-Dialogue: 0,0:15:26.99,0:15:30.12,Main,,0,0,0,,¡Está bien! ¡Podemos lograrlo! \N¡La meta está justo ahí!
+Dialogue: 0,0:15:26.99,0:15:30.12,Main,,0,0,0,,¡Está bien, podemos lograrlo! \N¡La meta está justo ahí!
 Dialogue: 0,0:15:30.12,0:15:30.87,Main,,0,0,0,,¡Apurémonos!
 Dialogue: 0,0:15:31.12,0:15:35.92,Main,,0,0,0,,La ronda #1 de la pelea Davy Back; \Nla carrera de donas...
 Dialogue: 0,0:15:36.41,0:15:40.15,Main,,0,0,0,,¡Está a punto de llegar a una conclusión!
 Dialogue: 0,0:15:40.26,0:15:43.73,Main,,0,0,0,,¡Ánimo, Monda! \N¡No podemos dejar que nos derroten!
 Dialogue: 0,0:15:44.85,0:15:48.42,Main,,0,0,0,,¡Perderemos si no hacemos algo! \N¡Mantente alineado con ellos!
-Dialogue: 0,0:15:48.42,0:15:49.45,Main,,0,0,0,,¡Okay, jefe!
+Dialogue: 0,0:15:48.42,0:15:49.45,Main,,0,0,0,,¡Okey, jefe!
 Dialogue: 0,0:15:50.33,0:15:53.56,Main,,0,0,0,,¡Nami-san! ¡Robin-chwan!
 Dialogue: 0,0:15:53.56,0:15:55.45,Main,,0,0,0,,¡Son veloces y encantadoras!
 Dialogue: 0,0:15:55.45,0:15:57.29,Main,,0,0,0,,Hombre, casi ganan...
 Dialogue: 0,0:15:57.50,0:15:59.33,Main,,0,0,0,,¿Ah, qué? ¡Estamos ganando!
-Dialogue: 0,0:16:00.58,0:16:02.79,Main,,0,0,0,,¡Por ahora! ¡Pero mira!
-Dialogue: 0,0:16:02.92,0:16:07.13,Main,,0,0,0,,¡Nuestro jefe está ahí! \N¿Y? ¿Qué puede hacer ahora?
+Dialogue: 0,0:16:00.58,0:16:02.79,Main,,0,0,0,,¡Por ahora, pero mira!
+Dialogue: 0,0:16:02.92,0:16:07.13,Main,,0,0,0,,– ¡Nuestro jefe está ahí! \N– ¿Y? ¿Qué puede hacer ahora?
 Dialogue: 0,0:16:07.13,0:16:09.19,Main,,0,0,0,,Nuestro jefe es como tú.
 Dialogue: 0,0:16:09.19,0:16:11.76,Main,,0,0,0,,Tiene poderes de Fruta del Diablo.
 Dialogue: 0,0:16:14.11,0:16:15.71,Main,,0,0,0,,{\fad(150,150)}¡Rayo ralentizador!
 Dialogue: 0,0:16:25.44,0:16:28.57,Main,,0,0,0,,¡Y el ganador es el Cutie Wagon!
 Dialogue: 0,0:16:28.57,0:16:34.96,Main,,0,0,0,,¡Nuestra ídolo Porche-chan \Nha ganado la primera ronda de la Pelea Davy Back!
-Dialogue: 0,0:16:34.96,0:16:36.95,Main,,0,0,0,,¡Muy bien! ¡Así se hace!
+Dialogue: 0,0:16:34.96,0:16:36.95,Main,,0,0,0,,¡Muy bien, así se hace!
 Dialogue: 0,0:16:36.95,0:16:39.12,Main,,0,0,0,,¡Oh! ¡Gracias a todos!
-Dialogue: 0,0:16:39.12,0:16:42.87,Main,,0,0,0,,¡Eres la mejor, Porche-chan! \N¡Es normal que haya ganado!
+Dialogue: 0,0:16:39.12,0:16:42.87,Main,,0,0,0,,– ¡Eres la mejor, Porche-chan! \N– ¡Es normal que haya ganado!
 Dialogue: 0,0:16:43.36,0:16:46.15,Main,,0,0,0,,¡Ahora vamos a llevarnos a uno de su tripulación!
 Dialogue: 0,0:16:46.85,0:16:49.80,Main,,0,0,0,,¡Nadie es rival para los Piratas Foxy!
 Dialogue: 0,0:16:54.30,0:16:55.23,Main,,0,0,0,,¿Qué...?
-Dialogue: 0,0:16:59.60,0:17:04.10,Main,,0,0,0,,¡Muy bien! ¡Hora de que nos entreguen \Nun miembro de tripulación!
+Dialogue: 0,0:16:59.60,0:17:04.10,Main,,0,0,0,,¡Muy bien, hora de que nos entreguen \Nun miembro de su tripulación!
 Dialogue: 0,0:17:04.43,0:17:07.12,Main,,0,0,0,,¿Están heridos, chicos? ¿Están bien?
 Dialogue: 0,0:17:07.12,0:17:08.68,Main,,0,0,0,,Sí, estamos bien.
 Dialogue: 0,0:17:09.00,0:17:10.99,Main,,0,0,0,,¿Qué pasó?
@@ -364,9 +363,9 @@ Dialogue: 0,0:17:12.66,0:17:16.09,Main,,0,0,0,,¡Eso es lo que nos gustaría sab
 Dialogue: 0,0:17:16.41,0:17:20.44,Main,,0,0,0,,Estaban a punto de ganar, pero \Nde repente se volvieron lentos y los pasaron.
 Dialogue: 0,0:17:23.50,0:17:25.58,Main,,0,0,0,,¡Eso no tiene ningún misterio!
 Dialogue: 0,0:17:25.58,0:17:28.04,Main,,0,0,0,,¡Fue obra de mis fotones ralentizadores!
-Dialogue: 0,0:17:28.04,0:17:30.80,Main,,0,0,0,,¡Oye! ¿Qué le hiciste al equipo de Nami?
+Dialogue: 0,0:17:28.04,0:17:30.80,Main,,0,0,0,,¡Oye, ¿qué le hiciste al equipo de Nami?!
 Dialogue: 0,0:17:31.37,0:17:32.76,Main,,0,0,0,,¿Fotones ralentizadores?
-Dialogue: 0,0:17:33.10,0:17:36.31,Main,,0,0,0,,Son un tipo de partícula diferente \Na todo lo conocido actualmente.
+Dialogue: 0,0:17:33.10,0:17:36.35,Main,,0,0,0,,Son un tipo de partícula diferente \Na todo lo conocido actualmente.
 Dialogue: 0,0:17:37.35,0:17:39.36,Main,,0,0,0,,Todo lo que esta luz toca
 Dialogue: 0,0:17:39.36,0:17:41.36,Main,,0,0,0,,Ya sea algo vivo, un líquido o un gas
 Dialogue: 0,0:17:41.70,0:17:44.50,Main,,0,0,0,,Pierde físicamente una cantidad fija de velocidad.
@@ -377,21 +376,21 @@ Dialogue: 0,0:17:52.86,0:17:55.74,Main,,0,0,0,,Pero eso suena demasiado ridícul
 Dialogue: 0,0:17:55.86,0:17:58.74,Main,,0,0,0,,...para ser real?
 Dialogue: 0,0:17:58.74,0:18:03.46,Main,,0,0,0,,¡Ya sabrás que esas afirmaciones infantiles \Nno tienen ningún mérito en estas aguas!
 Dialogue: 0,0:18:03.83,0:18:05.96,Main,,0,0,0,,¡Todo lo que tocan se ralentiza!
-Dialogue: 0,0:18:05.96,0:18:07.63,Main,,0,0,0,,¡Ese es el poder de los fotones ralentizadores!
-Dialogue: 0,0:18:07.63,0:18:10.21,Main,,0,0,0,,¡Ah, eso sí tiene sentido!
-Dialogue: 0,0:18:10.42,0:18:14.05,Main,,0,0,0,,Después de comer la fruta Lento Lento \Nme convertí en una "persona lenta"
-Dialogue: 0,0:18:14.05,0:18:16.10,Main,,0,0,0,,¡capaz de emitir estas \Npartículas desde mi cuerpo!
-Dialogue: 0,0:18:16.13,0:18:17.26,Main,,0,0,0,,¡Observa su poder!
+Dialogue: 0,0:18:05.96,0:18:07.66,Main,,0,0,0,,¡Ese es el poder de los fotones ralentizadores!
+Dialogue: 0,0:18:07.66,0:18:10.21,Main,,0,0,0,,¡Ah, eso sí tiene sentido!
+Dialogue: 0,0:18:10.42,0:18:14.05,Main,,0,0,0,,Después de comer la fruta Lento-Lento \Nme convertí en una "persona lenta"
+Dialogue: 0,0:18:14.05,0:18:16.16,Main,,0,0,0,,¡Capaz de emitir estas \Npartículas desde mi cuerpo!
+Dialogue: 0,0:18:16.16,0:18:17.26,Main,,0,0,0,,¡Observa su poder!
 Dialogue: 0,0:18:20.64,0:18:22.68,Main,,0,0,0,,¡Vaya, ralentizó una bala de cañon!
 Dialogue: 0,0:18:23.18,0:18:24.80,Main,,0,0,0,,{\fad(150,150)}¡Rayo Ralentizador!
 Dialogue: 0,0:18:26.30,0:18:28.96,Main,,0,0,0,,El efecto dura aproximadamente treinta segundos.
 Dialogue: 0,0:18:28.96,0:18:33.15,Main,,0,0,0,,Después, recuperará su velocidad original\N como si nada hubiera pasado.
-Dialogue: 0,0:18:36.11,0:18:38.20,Main,,0,0,0,,¿No puedes creer lo que ves? ¡Esto es...!
+Dialogue: 0,0:18:36.11,0:18:38.20,Main,,0,0,0,,¿No puedes creer lo que ves? ¡Esto es–!
 Dialogue: 0,0:18:39.83,0:18:41.45,Main,,0,0,0,,¡Jefe!
 Dialogue: 0,0:18:42.01,0:18:44.79,Main,,0,0,0,,¡Mierda! ¿Entonces eso fue lo que nos pasó?
 Dialogue: 0,0:18:45.26,0:18:48.88,Main,,0,0,0,,Por eso estaban tan confiados \Nrespecto al juego
 Dialogue: 0,0:18:48.88,0:18:50.54,Main,,0,0,0,,¡Qué chiste de poder!
-Dialogue: 0,0:18:50.54,0:18:55.27,Main,,0,0,0,,¿Lo entienden ahora? ¡Perdieron!
+Dialogue: 0,0:18:50.54,0:18:55.27,Main,,0,0,0,,¡En fin! ¿Lo entienden ahora? ¡Perdieron!
 Dialogue: 0,0:18:55.27,0:18:57.13,Main,,0,0,0,,La Victoria en la Carrera de Donas...
 Dialogue: 0,0:18:57.53,0:18:59.14,Main,,0,0,0,,¡Es nuestra!
 Dialogue: 0,0:18:59.22,0:19:01.72,Main,,0,0,0,,¡Vaya! ¡Y con lo cerca que estuvieron!
@@ -403,7 +402,7 @@ Dialogue: 0,0:19:23.49,0:19:24.20,Main,,0,0,0,,¡tú!
 Dialogue: 0,0:19:24.53,0:19:27.22,Main,,0,0,0,,¡El médico del barco! \N¡Tony Tony Chopper!
 Dialogue: 0,0:19:27.95,0:19:28.92,Main,,0,0,0,,¡¿Yo?!
 Dialogue: 0,0:19:29.00,0:19:31.12,Main,,0,0,0,,¡Tráiganlo aquí inmediatamente!
-Dialogue: 0,0:19:31.38,0:19:33.09,Main,,0,0,0,,¡Oh no! ¡Chopper!
+Dialogue: 0,0:19:31.38,0:19:33.09,Main,,0,0,0,,¡Oh, no! ¡Chopper!
 Dialogue: 0,0:19:34.21,0:19:38.95,Main,,0,0,0,,¡Qué criatura tan rara! \N¡Eres mucho más suave de lo que imaginé!
 Dialogue: 0,0:19:38.95,0:19:42.04,Main,,0,0,0,,¡Oh, jefe! ¡Déjame tocarlo también!
 Dialogue: 0,0:19:42.04,0:19:43.51,Main,,0,0,0,,¡Es asquerosamente lindo!
@@ -417,12 +416,12 @@ Dialogue: 0,0:20:00.86,0:20:02.71,Main,,0,0,0,,¡Este no es momento para charlar
 Dialogue: 0,0:20:02.71,0:20:05.37,Main,,0,0,0,,¡Esto es serio! \N¡Acaban de llevarse a nuestro amigo!
 Dialogue: 0,0:20:06.10,0:20:07.70,Main,,0,0,0,,Chicos...
 Dialogue: 0,0:20:08.56,0:20:13.24,Main,,0,0,0,,Muy bien, Dr. Chopper. \NAhora eres miembro de mi tripulación.
-Dialogue: 0,0:20:13.62,0:20:17.21,Main,,0,0,0,,¡Debes jurarme lealtad! \NAhora, ponte esta máscara
+Dialogue: 0,0:20:13.62,0:20:17.21,Main,,0,0,0,,¡Debes jurarme lealtad! \NAhora, ponte esta máscara.
 Dialogue: 0,0:20:19.84,0:20:21.15,Main,,0,0,0,,¡Chicos...!
 Dialogue: 0,0:20:22.01,0:20:25.67,Main,,0,0,0,,¡Perdón Chopper, lamento haber perdido!
 Dialogue: 0,0:20:25.67,0:20:26.70,Main,,0,0,0,,¡Maldición!
 Dialogue: 0,0:20:28.56,0:20:30.73,Main,,0,0,0,,¡Esto es una verdadera rareza!
-Dialogue: 0,0:20:31.10,0:20:34.06,Main,,0,0,0,,¡Un reno que habla! ¡Increíble!
+Dialogue: 0,0:20:31.10,0:20:34.06,Main,,0,0,0,,¡Increíble! ¡Un reno que habla!
 Dialogue: 0,0:20:34.69,0:20:36.23,Main,,0,0,0,,¡Seamos amigos!
 Dialogue: 0,0:20:37.34,0:20:38.61,Main,,0,0,0,,¡Hola, camarada!
 Dialogue: 0,0:20:42.91,0:20:44.24,Main,,0,0,0,,¡Chicos!
@@ -436,13 +435,13 @@ Dialogue: 0,0:21:13.16,0:21:15.11,Main,,0,0,0,,¡Deja de quejarte, Chopper!
 Dialogue: 0,0:21:15.81,0:21:17.32,Main,,0,0,0,,¡Estás siendo un mal perdedor!
 Dialogue: 0,0:21:18.05,0:21:19.16,Main,,0,0,0,,Zoro...
 Dialogue: 0,0:21:19.16,0:21:22.11,Main,,0,0,0,,¡Tú eres quien decidió zarpar!
-Dialogue: 0,0:21:22.11,0:21:24.56,Main,,0,0,0,,¡Nadie más tendrá la culpa \Nsi terminas muriendo en algún lugar!
-Dialogue: 0,0:21:24.56,0:21:25.99,Main,,0,0,0,,¡Sólo tú!
+Dialogue: 0,0:21:22.11,0:21:24.72,Main,,0,0,0,,¡Nadie más tendrá la culpa \Nsi terminas muriendo en algún lugar!
+Dialogue: 0,0:21:24.72,0:21:25.99,Main,,0,0,0,,¡Sólo tú!
 Dialogue: 0,0:21:26.45,0:21:28.34,Main,,0,0,0,,Aceptamos este juego
 Dialogue: 0,0:21:28.73,0:21:31.65,Main,,0,0,0,,¡Usopp y los demás \Nhicieron lo mejor que pudieron!
 Dialogue: 0,0:21:32.84,0:21:36.38,Main,,0,0,0,,¡Nadie en el mundo pirata \Nsimpatizaría con tus lágrimas!
 Dialogue: 0,0:21:37.13,0:21:38.31,Main,,0,0,0,,Un hombre de verdad...
-Dialogue: 0,0:21:38.88,0:21:41.48,Main,,0,0,0,,¡se arremangaría y vería el \Nresto de la competición en silencio!
+Dialogue: 0,0:21:38.88,0:21:41.98,Main,,0,0,0,,¡se arremangaría y vería\Nel resto de la competición en silencio!
 Dialogue: 0,0:21:43.13,0:21:46.67,Main,,0,0,0,,¿Cómo puedes decir eso? \N¿No sabes cómo se siente?
 Dialogue: 0,0:21:51.22,0:21:54.45,Main,,0,0,0,,¡Muy bien! \N¡Hagan lo que quieran conmigo!
 Dialogue: 0,0:21:55.73,0:21:56.77,Main,,0,0,0,,Chopper...
@@ -450,7 +449,7 @@ Dialogue: 0,0:21:57.24,0:21:58.32,Main,,0,0,0,,¡Bien!
 Dialogue: 0,0:21:58.32,0:22:01.09,Main,,0,0,0,,¡Vaya! \N¡Ese espadachín es increíble!
 Dialogue: 0,0:22:01.09,0:22:03.59,Main,,0,0,0,,¡Muy bien! \N¡Dales una lección, Zoro!
 Dialogue: 0,0:22:03.59,0:22:05.24,Main,,0,0,0,,¡Recupera a Chopper!
-Dialogue: 0,0:22:05.24,0:22:08.77,Main,,0,0,0,,¡Jefe, el siguiente tiene que ser él! \N¡Este reno tiene agallas!
+Dialogue: 0,0:22:05.24,0:22:08.77,Main,,0,0,0,,– ¡Jefe, el siguiente tiene que ser él! \N– ¡Este reno tiene agallas!
 Dialogue: 0,0:22:08.77,0:22:10.66,Main,,0,0,0,,Empecemos la segunda ronda.
 Dialogue: 0,0:22:11.01,0:22:13.33,Main,,0,0,0,,¡Qué conmovedor! \N¡Me lleva hasta las lágrimas!
 Dialogue: 0,0:22:13.73,0:22:16.25,Main,,0,0,0,,Sí. Aún quedan dos rondas.
@@ -458,7 +457,7 @@ Dialogue: 0,0:22:17.00,0:22:20.67,Main,,0,0,0,,Vamos a recuperar nuestra precios
 Dialogue: 0,0:22:20.67,0:22:22.61,Main,,0,0,0,,¡Sanji! ¡Contamos contigo!
 Dialogue: 0,0:22:22.61,0:22:26.90,Main,,0,0,0,,¡El intercambio termina mientras la Pelea \NDavy Back de repente explota de emoción!
 Dialogue: 0,0:22:27.22,0:22:30.20,Main,,0,0,0,,¿Eh? Espera, \NChopper estaba en la segunda ronda.
-Dialogue: 0,0:22:30.20,0:22:32.56,Main,,0,0,0,,Pero se lo llevaron. \NTienes razón.
+Dialogue: 0,0:22:30.20,0:22:32.56,Main,,0,0,0,,– Pero se lo llevaron. \N– Tienes razón.
 Dialogue: 0,0:22:33.29,0:22:34.98,Main,,0,0,0,,¡Eso es lo emocionante de este juego!
 Dialogue: 0,0:22:35.27,0:22:36.43,Main,,0,0,0,,¡Se lo dijimos!
 Dialogue: 0,0:22:36.43,0:22:39.73,Main,,0,0,0,,¡No pueden cambiar su lista \Ny no se permiten reemplazos!
@@ -469,7 +468,7 @@ Dialogue: 0,0:22:47.39,0:22:48.20,Main,,0,0,0,,¡¿Qué?!
 Dialogue: 0,0:22:48.58,0:22:50.83,Main,,0,0,0,,Tú también puedes abandonar si lo deseas.
 Dialogue: 0,0:22:50.83,0:22:53.41,Main,,0,0,0,,No, pero tú puedes, perdedor.
 Dialogue: 0,0:22:53.74,0:22:57.13,Main,,0,0,0,,Me resulta difícil creer \Nque trabajarán en equipo.
-Dialogue: 0,0:22:57.48,0:22:59.25,Main,,0,0,0,,¡¿Qué dijiste?! \N¡Ya paren!
+Dialogue: 0,0:22:57.48,0:22:59.25,Main,,0,0,0,,– ¡¿Qué dijiste?! \N– ¡Ya paren!
 Dialogue: 0,0:22:59.59,0:23:03.31,Main,,0,0,0,,¡Ahora explicaré las reglas del Groggy Ring!
 Dialogue: 0,0:23:03.31,0:23:05.47,Main,,0,0,0,,¡Hay un campo y dos porterías!
 Dialogue: 0,0:23:05.47,0:23:07.48,Main,,0,0,0,,¡Si meten las pelotas en ellas, ganarán!

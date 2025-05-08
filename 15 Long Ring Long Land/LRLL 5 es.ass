@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../Video/Original/Long Ring Long Land 05.mkv
-Video File: ../../Video/Original/Long Ring Long Land 05.mkv
+Audio File: ../Episodes/Long Ring Long Land - 05 .mkv
+Video File: ../Episodes/Long Ring Long Land - 05 .mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 226
-Active Line: 239
-Video Position: 27843
+Scroll Position: 18
+Active Line: 25
+Video Position: 1874
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,30 +43,30 @@ Dialogue: 0,0:00:08.37,0:00:11.59,Lyrics,,0,0,0,,Con el sol siempre en nuestros 
 Dialogue: 0,0:00:11.76,0:00:15.03,Lyrics,,0,0,0,,A medida que el poder pasa a través de nuestras manos entrelazadas
 Dialogue: 0,0:00:15.18,0:00:18.68,Lyrics,,0,0,0,,{\i1}Aferrémonos a nuestros deseos{\i}
 Dialogue: 0,0:00:26.32,0:00:32.51,Lyrics,,0,0,0,,{\i1}Trabajando juntos, surfeemos las olas gigantes{\i}
-Dialogue: 0,0:00:26.30,0:00:31.85,OP11 Credits,,50,0,230,,Traducción \N FUNimation
-Dialogue: 0,0:00:32.55,0:00:37.02,OP11 Credits,,450,0,280,,Banda sonora de \NHalee
-Dialogue: 0,0:00:32.55,0:00:37.02,OP11 Credits,,0,450,350,,Cuadros de información/Título de la tarjeta\N BernieCrane
+Dialogue: 0,0:00:26.30,0:00:31.85,OP11 Credits,,50,0,230,,Traducción \N Crunchyroll + NEBA
+Dialogue: 0,0:00:32.55,0:00:37.02,OP11 Credits,,490,0,280,,Banda sonora de \NHalee
+Dialogue: 0,0:00:32.55,0:00:37.02,OP11 Credits,,0,580,350,,Cuadros de información\NTítulo de la tarjeta\N BernieCrane
 Dialogue: 0,0:00:37.14,0:00:41.03,OP11 Credits,,0,100,420,,Edición \NFeeso
-Dialogue: 0,0:00:42.51,0:00:47.12,OP11 Credits,,470,0,290,,Comprobación de calidad\N Alasta\NGalaxy 9000\NMr. Luffy
-Dialogue: 0,0:01:02.50,0:01:06.47,OP11 Credits,,0,30,410,,Sincronización\NGalaxy 9000
+Dialogue: 0,0:00:42.51,0:00:47.12,OP11 Credits,,490,0,300,,Comprobación de calidad\N Alasta\NGalaxy 9000\NMr. Luffy
+Dialogue: 0,0:01:02.50,0:01:06.47,OP11 Credits,,0,30,410,,Sincronización\NDatenshi
 Dialogue: 0,0:00:33.85,0:00:40.33,Lyrics,,0,0,1,,{\i1}Apresurémonos hacia la emoción--\Nahí está la señal de salida.{\i}
-Dialogue: 0,0:00:41.01,0:00:47.14,Lyrics,,0,0,0,,{\i1}Ahora es el momento de zarpar: levemos el ancla.{\i}
+Dialogue: 0,0:00:41.01,0:00:47.14,Lyrics,,0,0,0,,{\i1}Es hora de zarpar, así que levemos el ancla.{\i}
 Dialogue: 0,0:00:47.99,0:00:55.00,Lyrics,,0,0,1,,{\i1}Corta el viento color arcoíris \Ny dirígete a un mar de aventuras{\i}
 Dialogue: 0,0:00:55.13,0:00:58.57,Lyrics,,0,0,0,,{\i1}Será un viaje plagado de lesiones{\i}
 Dialogue: 0,0:00:58.65,0:01:02.30,Lyrics,,0,0,0,,{\i1}pero lo que más aprecias estará ahí{\i}
-Dialogue: 0,0:01:02.50,0:01:06.43,Lyrics,,0,0,0,,{\i1}Y si te metes en un lío{\i}
-Dialogue: 0,0:01:06.50,0:01:08.38,Lyrics,,0,0,0,,{\i1}Siempre estaré ahí para protegerte{\i}
+Dialogue: 0,0:01:02.50,0:01:06.43,Lyrics,,0,0,0,,{\i1}Y si estás en un aprieto{\i}
+Dialogue: 0,0:01:06.50,0:01:08.38,Lyrics,,0,0,0,,{\i1}siempre estaré ahí para protegerte{\i}
 Dialogue: 0,0:01:09.53,0:01:13.36,Lyrics,,0,0,0,,{\i1}¡Está bien! Ahora sigamos adelante.{\i}
 Dialogue: 0,0:01:13.71,0:01:16.85,Lyrics,,0,0,0,,{\i1}con el sol siempre en nuestros corazones{\i}
 Dialogue: 0,0:01:17.23,0:01:20.35,Lyrics,,0,0,1,,{\i1}Si llega una tormenta, abracémonos{\i}
-Dialogue: 0,0:01:20.46,0:01:24.23,Lyrics,,0,0,0,,{\fad(75,0)}{\i1}y observemos la luz más allá{\i}
-Dialogue: 0,0:01:24.72,0:01:27.97,Lyrics,,0,0,0,,{\i1}Si recogemos los pedazos de nuestros sueños{\i}
-Dialogue: 0,0:01:28.47,0:01:31.58,Lyrics,,0,0,0,,{\i1}Harán un mapa que conduzca al mañana{\i}
+Dialogue: 0,0:01:20.46,0:01:24.23,Lyrics,,0,0,0,,{\fad(75,0)}{\i1}y miremos a la luz que está más allá{\i}
+Dialogue: 0,0:01:24.72,0:01:27.97,Lyrics,,0,0,0,,{\i1}Si reunimos los pedazos de nuestros sueños{\i}
+Dialogue: 0,0:01:28.47,0:01:31.58,Lyrics,,0,0,0,,{\i1}harán un mapa que conduzca al mañana{\i}
 Dialogue: 0,0:01:31.73,0:01:34.75,Lyrics,,0,0,0,,{\i1}Así que aferrémonos a nuestros deseos{\i}
-Dialogue: 0,0:01:35.22,0:01:40.48,Lyrics,,0,0,0,,{\i1}bajo la misma bandera-- juntos somos uno{\i}
+Dialogue: 0,0:01:35.22,0:01:40.48,Lyrics,,0,0,0,,{\i1}bajo la misma bandera-- ya que somos un mismo...{\i}
 Dialogue: 0,0:01:51.71,0:01:56.13,Main,,0,0,0,,¡Con gran determinación, \NLuffy Sombrero de Paja se vuelve a levantar!
-Dialogue: 0,0:01:56.26,0:01:58.96,Main,,0,0,0,,¡Incluso después de innumerables caídas,\N se vuelve a levantar!
-Dialogue: 0,0:01:59.10,0:02:00.02,Main,,0,0,0,,¡Luffy!
+Dialogue: 0,0:01:56.26,0:01:59.16,Main,,0,0,0,,¡Incluso después de innumerables caídas,\N se vuelve a levantar!
+Dialogue: 0,0:01:59.16,0:02:00.02,Main,,0,0,0,,¡Luffy!
 Dialogue: 0,0:02:00.81,0:02:04.41,Main,,0,0,0,,¡¿Qué diablos eres?!
 Dialogue: 0,0:02:06.33,0:02:07.98,Main,,0,0,0,,¡Luffy!
 Dialogue: 0,0:02:07.98,0:02:10.04,Main,,0,0,0,,¡Apenas se puede mantener de pie!
