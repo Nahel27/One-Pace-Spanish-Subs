@@ -14,9 +14,9 @@ Video File: ../Pace Episodes/Post-Enies Lobby - 04.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 9
-Active Line: 16
-Video Position: 2991
+Scroll Position: 48
+Active Line: 52
+Video Position: 5823
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -88,7 +88,7 @@ Dialogue: 0,0:03:41.60,0:03:43.86,Flashbacks,Zoro,0,0,0,,Aunque sea un idiota, �
 Dialogue: 0,0:03:44.76,0:03:49.72,Flashbacks,Zoro,0,0,0,,Si alguien no puede respetarlo cuando la cosa\N se pone fea, es mejor que no esté en la tripulación.
 Dialogue: 0,0:03:50.08,0:03:55.08,Flashbacks,Zoro,0,0,0,,Cuando un capitán pierde su autoridad,\Nla tripulación inevitablemente se desmorona.
 Dialogue: 0,0:03:59.40,0:04:02.90,Flashbacks,Zoro,0,0,0,,¡Escucha! ¡No me importa \Nque normalmente andes bromeando,
-Dialogue: 0,0:04:02.90,0:04:06.88,Flashbacks,Zoro,0,0,0,,pero si el hombre está por encima de mí,\N se comporta de manera tan vergonzosa...
+Dialogue: 0,0:04:02.90,0:04:06.88,Flashbacks,Zoro,0,0,0,,pero si el hombre que está por encima de mí,\N se comporta de manera tan vergonzosa...
 Dialogue: 0,0:04:07.15,0:04:09.73,Flashbacks,Zoro,0,0,0,,el próximo en abandonar la tripulación seré yo!
 Dialogue: 0,0:04:09.97,0:04:12.98,Flashbacks,Nami,0,0,0,,¡¿Eh?! ¡Así no se resolverá nada!
 Dialogue: 0,0:04:15.41,0:04:19.98,Flashbacks,Zoro,0,0,0,,Si ese idiota quiere volver, está bien.
